@@ -1,0 +1,9 @@
+# Ignore all .log files
+*.log
+
+# Ignore specific file
+path_cred.json
+playground.ipynb
+
+# Ignore entire directory
+data/
