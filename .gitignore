@@ -4,6 +4,7 @@
 # Ignore specific file
 path_cred.json
 playground.ipynb
+.DS_Store
 
 # Ignore entire directory
 data/
