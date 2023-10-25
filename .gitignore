@@ -1,5 +1,6 @@
 # Ignore all .log files
 *.log
+*.db
 
 # Ignore specific file
 path_cred.json
@@ -7,4 +8,4 @@ playground.ipynb
 .DS_Store
 
 # Ignore entire directory
-data/
+ignore/
