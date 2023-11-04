@@ -33,29 +33,20 @@ whites4background = ['#F8FAFC','#F7FAFC','#F9FAFC','#F1F5F9',
                      '#F9FAFB','#FAFAFA','#FAFAF9','#F6F6F8',
                      '#F5F5F4','#F7F7F9','#F8F8F8','#F2F2F2']
 
-pearl_earring_cmap = LinearSegmentedColormap.from_list("Pearl Earring - 10 colors",
-                                                       ['#15242e', '#4393c4'], N=10)
-el_greco_violet_cmap = LinearSegmentedColormap.from_list("El Greco Violet - 10 colors",
-                                                         ['#332a49', '#8e78a0'], N=10)
-el_greco_yellow_cmap = LinearSegmentedColormap.from_list("El Greco Yellow - 10 colors",
-                                                         ['#7c2e2a', '#f2dd44'], N=10)
-flamingo_cmap = LinearSegmentedColormap.from_list("Flamingo - 10 colors",
-                                                  ['#e3aca7', '#c03a1d'], N=10)
-# same color maps but with 100 colors
-pearl_earring_cmap_100 = LinearSegmentedColormap.from_list("Pearl Earring - 100 colors",
-                                                           ['#15242e', '#4393c4'], N=100)
-el_greco_violet_cmap_100 = LinearSegmentedColormap.from_list("El Greco Violet - 100 colors",
-                                                             ['#3b3154', '#8e78a0'], N=100)
-el_greco_yellow_cmap_100 = LinearSegmentedColormap.from_list("El Greco Yellow - 100 colors",
-                                                             ['#7c2e2a', '#f2dd44'], N=100)
-flamingo_cmap_100 = LinearSegmentedColormap.from_list("Flamingo - 100 colors",
-                                                      ['#e3aca7', '#c03a1d'], N=100)
-cmaps = [pearl_earring_cmap, flamingo_cmap,
-        el_greco_violet_cmap, el_greco_yellow_cmap,
-        pearl_earring_cmap_100, flamingo_cmap_100,
-        el_greco_violet_cmap_100, el_greco_yellow_cmap_100]
+# Load configuration from config.json
+with open('config.json', 'r') as config_file:
+    config = json.load(config_file)
 
-def show_color_maps():
+def get_config_cmap(cmap_name,n=str()):
+    try:
+        cmap = LinearSegmentedColormap.from_list(config["cmaps"][cmap_name]["name"],
+                                                 config["cmaps"][cmap_name]["colors"],
+                                                 n)
+    except:
+        print("No colormap was found in config.json")
+    return cmap
+
+def show_color_maps(cmaps):
     fig, axes = plt.subplots(figsize=(12, 5), nrows=8, ncols=2, constrained_layout=True)
     gradient = np.linspace(0, 1, 256)
     gradient = np.repeat(np.expand_dims(gradient, axis=0), repeats=10, axis=0)
@@ -80,11 +71,14 @@ class footyviz:
         self.scattyDotColor = 'grey'
         self.title_font = {'size':'20', 'color':'black', 'weight':'bold'}
         self.font_url = 'https://github.com/google/fonts/blob/main/ofl/bebasneue/BebasNeue-Regular.ttf?raw=true'
+        self.seasonNameList = [value for value in self.data.season_name.unique() if not (isinstance(value, float) and np.isnan(value))]
+        self.playerName = None
         # create a colormap
         self.colors = [(0, self.backgroundColor), (0.5, "yellow"), (1, "red")]
         self.colormap = LinearSegmentedColormap.from_list("custom_colormap", self.colors, N=100)
     def navigate(self, **filters):
         query_string = ' & '.join([f'({col} == {repr(val)})' for col, val in filters.items()])
+    
         self.data = self.data.query(query_string)
         #return self.data
     def heatmap(self,title):
