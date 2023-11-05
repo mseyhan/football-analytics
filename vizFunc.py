@@ -37,7 +37,7 @@ whites4background = ['#F8FAFC','#F7FAFC','#F9FAFC','#F1F5F9',
 with open('config.json', 'r') as config_file:
     config = json.load(config_file)
 
-def get_config_cmap(cmap_name,n=str()):
+def get_config_cmap(cmap_name,n=int()):
     try:
         cmap = LinearSegmentedColormap.from_list(config["cmaps"][cmap_name]["name"],
                                                  config["cmaps"][cmap_name]["colors"],
@@ -81,6 +81,9 @@ class footyviz:
     
         self.data = self.data.query(query_string)
         #return self.data
+    def navigate_temp(self,**filters):
+        query_string = ' & '.join([f'({col} == {repr(val)})' for col, val in filters.items()])
+        return self.data.query(query_string)
     def heatmap(self,title):
         #self.backgroundColor = background_hex
         self.fig, self.ax = self.pitch.draw(figsize=(self.figSizeX, self.figSizeY),constrained_layout=False,tight_layout=True)
