@@ -6,6 +6,7 @@
 path_cred.json
 playground.ipynb
 .DS_Store
+data/find_matchid_preset.sql
 
 # Ignore entire directory
 ignore/
