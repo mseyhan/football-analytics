@@ -1,5 +1,4 @@
-/* selects all lineup data in selected player's available matches.*/
-
+/* Retrieve all matches and lineups for the target season*/
 SELECT m.*
 	, l. player_id
 	, l.player_name
@@ -11,21 +10,11 @@ SELECT m.*
 	, l.country_name as country_name_lineup
 FROM (
 	SELECT *
-	FROM match
-	WHERE season_id = 26
-	) m
-
-LEFT JOIN (
-	SELECT a.*
-	FROM lineup a
-	LEFT JOIN 
-		(
-			SELECT DISTINCT match_id
-			FROM lineup
-			WHERE player_id = 5503
-			)  b
-	ON a.match_id =  b.match_id
-	WHERE b.match_id IS NOT NULL
-	)  l
-ON m.match_id = l. match_id
+	FROM MATCH m
+	WHERE 1=1
+	AND  season_id = 27
+	AND competition_id = 2 -- if it's necessary to see the picture regardless the competition through the season, just comment out.
+	)  m
+LEFT JOIN lineup l
+ON m.match_id = l.match_id
 
