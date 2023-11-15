@@ -10,14 +10,22 @@ WITH JOINT AS (
 				ON m.match_id = l.match_id
 				)
 
-SELECT *
+SELECT 
+					m.*
+					, j.player_id	
+					, j.player_name	
+					, j.player_nickname
+					, j.jersey_number
+					, j.team_id
+					, j.team_name
+					, j.country_id
 FROM (
 		SELECT *
 		FROM JOINT
 		WHERE 1=1
 		AND season_id = 26
 --		AND player_id = 5503
-	) J
+	)  J
 LEFT OUTER JOIN match m 
 USING (match_id)
 WHERE J.MATCH_ID IS NOT NULL

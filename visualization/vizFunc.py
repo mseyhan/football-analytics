@@ -33,6 +33,8 @@ whites4background = ['#F8FAFC','#F7FAFC','#F9FAFC','#F1F5F9',
                      '#F9FAFB','#FAFAFA','#FAFAF9','#F6F6F8',
                      '#F5F5F4','#F7F7F9','#F8F8F8','#F2F2F2']
 
+palette = ["#989898","#ffc100","#ff0057","#ff0057","#1a1a1a","#0d7177"]
+
 # Load configuration from config.json
 with open('config.json', 'r') as config_file:
     config = json.load(config_file)
