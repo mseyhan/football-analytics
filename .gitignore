@@ -1,0 +1,12 @@
+# Ignore all .log files
+*.log
+*.db
+
+# Ignore specific file
+config.json
+playground.ipynb
+.DS_Store
+find_matchid_preset.sql
+
+# Ignore entire directory
+ignore/
