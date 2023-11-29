@@ -1,3 +1,4 @@
+
 SELECT   home_team_name,home_team_id as team_id, home_team_country_name
 FROM match m
 LEFT JOIN competition c

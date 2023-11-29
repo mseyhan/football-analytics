@@ -6,13 +6,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/130px-Logo_of_AC_Milan.svg.png",
         "download_status": true,
         "file_path": "data/logo/AC_Milan.png",
-        "palette": [
-            "#de042b",
-            "#0f1218",
-            "#c7c9cb",
-            "#6d3948",
-            "#848c8c",
-            "#84848c"
+        "palette_hex": [
+            "#1a1110",
+            "#3f00ff",
+            "#ffffff"
         ]
     },
     "28": {
@@ -22,29 +19,24 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_(2013).svg/800px-AFC_Bournemouth_(2013).svg.png",
         "download_status": true,
         "file_path": "data/logo/AFC_Bournemouth.png",
-        "palette": [
-            "#c31217",
-            "#040404",
-            "#c9b999",
-            "#5e403a",
-            "#7c7c7c",
-            "#747474"
+        "palette_hex": [
+            "#000000",
+            "#ffffff",
+            "#0000cd",
+            "#0014a8"
         ]
     },
     "129": {
         "team_name": "AS Monaco",
         "team_id": 129,
-        "original_link": "https://en.wikipedia.org/wiki/AS_Monaco_FC",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/125px-LogoASMonacoFC2021.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/1200px-LogoASMonacoFC2021.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/1200px-LogoASMonacoFC2021.svg.png",
         "download_status": true,
         "file_path": "data/logo/AS_Monaco.png",
-        "palette": [
-            "#c79242",
-            "#fc062e",
-            "#faccd2",
-            "#040404",
-            "#308480",
-            "#300484"
+        "palette_hex": [
+            "#3f00ff",
+            "#4997d0",
+            "#ffffff"
         ]
     },
     "229": {
@@ -54,29 +46,23 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_(2017).svg/1200px-AS_Roma_logo_(2017).svg.png",
         "download_status": true,
         "file_path": "data/logo/AS_Roma.png",
-        "palette": [
-            "#930c2b",
-            "#eabb33",
-            "#090b0b",
-            "#81765b",
-            "#444c4c",
-            "#44444c"
+        "palette_hex": [
+            "#120a8f",
+            "#00bfff",
+            "#1a1110",
+            "#bebebe"
         ]
     },
     "7282": {
         "team_name": "ATK Mohun Bagan",
         "team_id": 7282,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Mohun_Bagan_Super_Giant.svg/640px-Mohun_Bagan_Super_Giant.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Mohun_Bagan_Super_Giant.svg/640px-Mohun_Bagan_Super_Giant.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/2/26/Official_ATK_Logo.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/2/26/Official_ATK_Logo.png",
         "download_status": true,
         "file_path": "data/logo/ATK_Mohun_Bagan.png",
-        "palette": [
-            "#04100b",
-            "#a83a41",
-            "#bfbeb4",
-            "#67957e",
-            "#565b59",
-            "#7c667c"
+        "palette_hex": [
+            "#ffffff",
+            "#483d8b"
         ]
     },
     "806": {
@@ -86,13 +72,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/190px-Ajax_Amsterdam.svg.png",
         "download_status": true,
         "file_path": "data/logo/Ajax.png",
-        "palette": [
-            "#dbb9be",
-            "#050505",
-            "#d6223a",
-            "#565656",
-            "#7c7c7c",
-            "#747474"
+        "palette_hex": [
+            "#ffffff",
+            "#000000"
         ]
     },
     "608": {
@@ -102,29 +84,25 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Albacete_balompie.svg/1200px-Albacete_balompie.svg.png",
         "download_status": true,
         "file_path": "data/logo/Albacete.png",
-        "palette": [
-            "#c25429",
-            "#040404",
-            "#584e30",
-            "#7c7c7c",
-            "#747474",
-            "#3c3c3c"
+        "palette_hex": [
+            "#000000",
+            "#ffffff",
+            "#1034a6"
         ]
     },
     "403": {
         "team_name": "Almer\u00eda",
         "team_id": 403,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/UD_Almeria_logo.svg/640px-UD_Almeria_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/UD_Almeria_logo.svg/640px-UD_Almeria_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/UD_Almeria_logo.svg/800px-UD_Almeria_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/UD_Almeria_logo.svg/800px-UD_Almeria_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Almer\u00eda.png",
-        "palette": [
-            "#f4c309",
-            "#040404",
-            "#e30514",
-            "#0473bb",
-            "#4b9dd1",
-            "#645525"
+        "palette_hex": [
+            "#00bfff",
+            "#ffffff",
+            "#000000",
+            "#0000cd",
+            "#b06500"
         ]
     },
     "145": {
@@ -134,45 +112,35 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Angers_SCO_logo.svg/1200px-Angers_SCO_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Angers.png",
-        "palette": [
-            "#080606",
-            "#ccab84",
-            "#585452",
-            "#847c7c",
-            "#7c7c78",
-            "#797474"
+        "palette_hex": [
+            "#ffffff",
+            "#100c08"
         ]
     },
     "779": {
         "team_name": "Argentina",
         "team_id": 779,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Argentina_national_football_team_logo.svg/1200px-Argentina_national_football_team_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Argentina_national_football_team_logo.svg/1200px-Argentina_national_football_team_logo.svg.png",
+        "original_link": "https://en.wikipedia.org/wiki/Argentina_national_football_team",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Argentina_national_football_team_logo.svg/160px-Argentina_national_football_team_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Argentina.png",
-        "palette": [
-            "#d3b34c",
-            "#040404",
-            "#44a4d3",
-            "#143c6c",
-            "#626b5c",
-            "#847c54"
+        "palette_hex": [
+            "#4997d0",
+            "#704214",
+            "#cba135"
         ]
     },
     "9763": {
         "team_name": "Argentina U20",
         "team_id": 9763,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Argentina_national_football_team_logo.svg/1200px-Argentina_national_football_team_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Argentina_national_football_team_logo.svg/1200px-Argentina_national_football_team_logo.svg.png",
+        "original_link": "https://en.wikipedia.org/wiki/Argentina_national_under-20_football_team",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Argentine_Football_Association_logo.svg/100px-Argentine_Football_Association_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Argentina_U20.png",
-        "palette": [
-            "#d3b34c",
-            "#040404",
-            "#44a4d3",
-            "#143c6c",
-            "#626b5c",
-            "#847c54"
+        "palette_hex": [
+            "#778899",
+            "#5d8aa8",
+            "#848482"
         ]
     },
     "1": {
@@ -182,13 +150,12 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
         "download_status": true,
         "file_path": "data/logo/Arsenal.png",
-        "palette": [
-            "#041122",
-            "#9c844c",
-            "#e30404",
-            "#e4dad6",
-            "#6d6b56",
-            "#6f769b"
+        "palette_hex": [
+            "#5d8aa8",
+            "#0000cd",
+            "#0000ff",
+            "#ffffff",
+            "#7b3f00"
         ]
     },
     "59": {
@@ -198,13 +165,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Aston_Villa_logo.svg/150px-Aston_Villa_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Aston_Villa.png",
-        "palette": [
-            "#a4c3e9",
-            "#fae308",
-            "#7d0941",
-            "#040404",
-            "#9478a5",
-            "#dcdfa4"
+        "palette_hex": [
+            "#edc9af",
+            "#00ffff",
+            "#4b0082"
         ]
     },
     "228": {
@@ -214,13 +178,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
         "download_status": true,
         "file_path": "data/logo/Atalanta.png",
-        "palette": [
-            "#2c5cac",
-            "#0f0c0f",
-            "#d0d6df",
-            "#79a1dd",
-            "#696667",
-            "#047f82"
+        "palette_hex": [
+            "#ffffff",
+            "#bb6528",
+            "#1a2421"
         ]
     },
     "215": {
@@ -230,29 +191,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/1200px-Club_Athletic_Bilbao_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Athletic_Club.png",
-        "palette": [
-            "#ea2525",
-            "#040404",
-            "#d3cbcb",
-            "#565454",
-            "#7c7c7c",
-            "#747474"
-        ]
-    },
-    "212": {
-        "team_name": "Atl\u00e9tico Madrid",
-        "team_id": 212,
-        "original_link": "https://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Atletico_Madrid_2017_logo.svg/155px-Atletico_Madrid_2017_logo.svg.png",
-        "download_status": true,
-        "file_path": "data/logo/Atl\u00e9tico_Madrid.png",
-        "palette": [
-            "#2a3066",
-            "#ca3627",
-            "#040404",
-            "#d1ccd5",
-            "#83a6ac",
-            "#8688b9"
+        "palette_hex": [
+            "#ffffff",
+            "#000000",
+            "#273be2"
         ]
     },
     "172": {
@@ -262,29 +204,23 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/FC_Augsburg_logo.svg/1200px-FC_Augsburg_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Augsburg.png",
-        "palette": [
-            "#bc3434",
-            "#161d16",
-            "#fad232",
-            "#6f5232",
-            "#547c5c",
-            "#ce9494"
+        "palette_hex": [
+            "#ffffff",
+            "#324ab2",
+            "#0fc0fc"
         ]
     },
     "792": {
         "team_name": "Australia",
         "team_id": 792,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Football_Australia_logo.svg/640px-Football_Australia_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Football_Australia_logo.svg/640px-Football_Australia_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Football_Australia_logo.svg/1200px-Football_Australia_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Football_Australia_logo.svg/1200px-Football_Australia_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Australia.png",
-        "palette": [
-            "#040404",
-            "#faa421",
-            "#04533c",
-            "#048404",
-            "#616d31",
-            "#88742c"
+        "palette_hex": [
+            "#4b5320",
+            "#1e90ff",
+            "#0fc0fc"
         ]
     },
     "915": {
@@ -294,13 +230,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Das_\u00d6sterreich_Fu\u00dfball_eingschaft.png",
         "download_status": true,
         "file_path": "data/logo/Austria.png",
-        "palette": [
-            "#040404",
-            "#eae9e9",
-            "#ed0908",
-            "#656161",
-            "#7b8481",
-            "#70709a"
+        "palette_hex": [
+            "#ffffff",
+            "#000000",
+            "#f2f3f4"
         ]
     },
     "217": {
@@ -310,13 +243,14 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/190px-FC_Barcelona_%28crest%29.svg.png",
         "download_status": true,
         "file_path": "data/logo/Barcelona.png",
-        "palette": [
-            "#0a0906",
-            "#e9be04",
-            "#c2043b",
-            "#044b9b",
-            "#cf969e",
-            "#848484"
+        "palette_hex": [
+            "#00b7eb",
+            "#3f00ff",
+            "#964b00",
+            "#000000",
+            "#4b0082",
+            "#00ffff",
+            "#ffffff"
         ]
     },
     "2736": {
@@ -326,45 +260,37 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SC_Bastia_logo.svg/1200px-SC_Bastia_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Bastia.png",
-        "palette": [
-            "#110e11",
-            "#244c94",
-            "#c9cacd",
-            "#6b6969",
-            "#8498c1",
-            "#6881b3"
+        "palette_hex": [
+            "#8b4513",
+            "#ffffff",
+            "#1a2421"
         ]
     },
     "904": {
         "team_name": "Bayer Leverkusen",
         "team_id": 904,
-        "original_link": "https://en.wikipedia.org/wiki/Bayer_04_Leverkusen",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/230px-Bayer_04_Leverkusen_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Bayer_Leverkusen.png",
-        "palette": [
-            "#141212",
-            "#df2424",
-            "#e8db30",
-            "#7c513e",
-            "#97967e",
-            "#8e8c94"
+        "palette_hex": [
+            "#ffffff",
+            "#1a1110",
+            "#273be2",
+            "#08e8de"
         ]
     },
     "169": {
         "team_name": "Bayern Munich",
         "team_id": 169,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/640px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M\u00fcnchen_logo_(2017).svg/640px-FC_Bayern_M\u00fcnchen_logo_(2017).svg.png",
+        "original_link": "https://en.wikipedia.org/wiki/FC_Bayern_Munich",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/190px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
         "download_status": true,
         "file_path": "data/logo/Bayern_Munich.png",
-        "palette": [
-            "#dc062d",
-            "#040404",
-            "#0464b4",
-            "#e2ceda",
-            "#5298ca",
-            "#ec7c94"
+        "palette_hex": [
+            "#ffffff",
+            "#3f00ff",
+            "#b06500"
         ]
     },
     "782": {
@@ -374,45 +300,35 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Royal_Belgian_FA_logo_2019.svg/1200px-Royal_Belgian_FA_logo_2019.svg.png",
         "download_status": true,
         "file_path": "data/logo/Belgium.png",
-        "palette": [
-            "#c6a93f",
-            "#0e0e0e",
-            "#e30414",
-            "#6c613a",
-            "#423d2c",
-            "#848484"
+        "palette_hex": [
+            "#1a2421",
+            "#5f9ea0",
+            "#0000cd",
+            "#00bfff"
         ]
     },
     "7284": {
         "team_name": "Bengaluru",
         "team_id": 7284,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Bengaluru_FC_logo.svg/640px-Bengaluru_FC_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Bengaluru_FC_logo.svg/640px-Bengaluru_FC_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Bengaluru_FC_logo.svg/800px-Bengaluru_FC_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Bengaluru_FC_logo.svg/800px-Bengaluru_FC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Bengaluru.png",
-        "palette": [
-            "#dc7e3d",
-            "#2c449c",
-            "#040404",
-            "#7f93c6",
-            "#657abb",
-            "#793465"
+        "palette_hex": [
+            "#af4035",
+            "#ffffff"
         ]
     },
     "54": {
         "team_name": "Birmingham City",
         "team_id": 54,
-        "original_link": "https://en.wikipedia.org/wiki/Birmingham_City_F.C.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/130px-Birmingham_City_FC_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/6/68/Birmingham_City_FC_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/6/68/Birmingham_City_FC_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/Birmingham_City.png",
-        "palette": [
-            "#cad1e5",
-            "#22418f",
-            "#7e90be",
-            "#040404",
-            "#6277b0",
-            "#4c4040"
+        "file_path": "data/logo/Birmingham_City.svg",
+        "palette_hex": [
+            "#ffffff",
+            "#8a3324"
         ]
     },
     "98": {
@@ -422,13 +338,13 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/1200px-Blackburn_Rovers.svg.png",
         "download_status": true,
         "file_path": "data/logo/Blackburn_Rovers.png",
-        "palette": [
-            "#0499af",
-            "#f6e70b",
-            "#050504",
-            "#e2041b",
-            "#3f6433",
-            "#0477a9"
+        "palette_hex": [
+            "#ffffff",
+            "#da9100",
+            "#000000",
+            "#00ffff",
+            "#2a8000",
+            "#0000cd"
         ]
     },
     "1328": {
@@ -438,13 +354,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/1200px-Boca_Juniors_logo18.svg.png",
         "download_status": true,
         "file_path": "data/logo/Boca_Juniors.png",
-        "palette": [
-            "#f2b32c",
-            "#143c7b",
-            "#040404",
-            "#676b5a",
-            "#847c52",
-            "#8c7c4c"
+        "palette_hex": [
+            "#704214",
+            "#0fc0fc"
         ]
     },
     "240": {
@@ -454,13 +366,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/1200px-Bologna_F.C._1909_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Bologna.png",
-        "palette": [
-            "#121c25",
-            "#9c1c34",
-            "#dbdbe3",
-            "#6f747f",
-            "#8c949c",
-            "#8c8c9c"
+        "palette_hex": [
+            "#3d2b1f",
+            "#333399",
+            "#ffffff",
+            "#dcdcdc"
         ]
     },
     "328": {
@@ -470,45 +380,33 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Bolton_Wanderers_FC_logo.svg/640px-Bolton_Wanderers_FC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Bolton_Wanderers.png",
-        "palette": [
-            "#0f172e",
-            "#d20623",
-            "#243b84",
-            "#f3c5ce",
-            "#7888b0",
-            "#343464"
+        "palette_hex": [
+            "#80461b",
+            "#0000cd"
         ]
     },
     "146": {
         "team_name": "Bordeaux",
         "team_id": 146,
-        "original_link": "https://en.wikipedia.org/wiki/FC_Girondins_de_Bordeaux",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/FC_Girondins_de_Bordeaux_logo.svg/150px-FC_Girondins_de_Bordeaux_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/1/11/FC_Girondins_de_Bordeaux_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/1/11/FC_Girondins_de_Bordeaux_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/Bordeaux.png",
-        "palette": [
-            "#11112a",
-            "#c1c2c9",
-            "#606376",
-            "#818494",
-            "#848c96",
-            "#44455c"
+        "file_path": "data/logo/Bordeaux.svg",
+        "palette_hex": [
+            "#321414",
+            "#ffffff"
         ]
     },
     "180": {
         "team_name": "Borussia Dortmund",
         "team_id": 180,
-        "original_link": "https://en.wikipedia.org/wiki/Borussia_Dortmund",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/185px-Borussia_Dortmund_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/Borussia_Dortmund.png",
-        "palette": [
-            "#fada04",
-            "#050504",
-            "#8d7804",
-            "#695904",
-            "#b49904",
-            "#544c04"
+        "file_path": "data/logo/Borussia_Dortmund.svg",
+        "palette_hex": [
+            "#00bfff",
+            "#000000"
         ]
     },
     "185": {
@@ -518,13 +416,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M\u00f6nchengladbach_logo.svg/1200px-Borussia_M\u00f6nchengladbach_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Borussia_M\u00f6nchengladbach.png",
-        "palette": [
-            "#040404",
-            "#c3c3c3",
-            "#7c7c7c",
-            "#555555",
-            "#747474",
-            "#3c3c3c"
+        "palette_hex": [
+            "#000000",
+            "#ffffff"
         ]
     },
     "781": {
@@ -534,13 +428,12 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Brazilian_Football_Confederation_logo.svg",
         "download_status": true,
         "file_path": "data/logo/Brazil.svg",
-        "palette": [
-            "#f0d81e",
-            "#0d83d2",
-            "#0a1021",
-            "#21ac4d",
-            "#4e6862",
-            "#3c4c64"
+        "palette_hex": [
+            "#da9100",
+            "#704214",
+            "#ffffff",
+            "#4cbb17",
+            "#00bfff"
         ]
     },
     "444": {
@@ -550,13 +443,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/CD_Numancia_logo.svg/1200px-CD_Numancia_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/CD_Numancia_de_Soria.png",
-        "palette": [
-            "#060505",
-            "#146bcb",
-            "#cb8f10",
-            "#da0504",
-            "#5e97d4",
-            "#c4141c"
+        "palette_hex": [
+            "#ffffff",
+            "#d2691e",
+            "#0000cd",
+            "#0892d0"
         ]
     },
     "140": {
@@ -566,13 +457,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/SM_Caen_2016_logo.svg/1200px-SM_Caen_2016_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Caen.png",
-        "palette": [
-            "#3c4464",
-            "#bca475",
-            "#040404",
-            "#cb4c44",
-            "#9ca4b2",
-            "#969cac"
+        "palette_hex": [
+            "#674846",
+            "#ffffff",
+            "#72a0c1",
+            "#5a4fcf"
         ]
     },
     "2722": {
@@ -582,13 +471,13 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Cameroon_2010crest.png",
         "download_status": true,
         "file_path": "data/logo/Cameroon.png",
-        "palette": [
-            "#e6c61d",
-            "#449c43",
-            "#eb1c24",
-            "#040404",
-            "#261e24",
-            "#60560f"
+        "palette_hex": [
+            "#000000",
+            "#0fc0fc",
+            "#2e8b57",
+            "#1dacd6",
+            "#273be2",
+            "#ffffff"
         ]
     },
     "1833": {
@@ -598,13 +487,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/6/69/Canadian_Soccer_Association_logo.svg",
         "download_status": true,
         "file_path": "data/logo/Canada.svg",
-        "palette": [
-            "#c42b1b",
-            "#040404",
-            "#ac0404",
-            "#44241c",
-            "#04281c",
-            "#040420"
+        "palette_hex": [
+            "#1c39bb",
+            "#000000"
         ]
     },
     "1683": {
@@ -614,13 +499,8 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kit_left_arm_carpi1819h.png",
         "download_status": true,
         "file_path": "data/logo/Carpi.png",
-        "palette": [
-            "#fc0606",
-            "#060606",
-            "#1004444",
-            "#1004444",
-            "#1004444",
-            "#1004444"
+        "palette_hex": [
+            "#ffffff"
         ]
     },
     "209": {
@@ -630,29 +510,25 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/640px-RC_Celta_de_Vigo_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Celta_Vigo.png",
-        "palette": [
-            "#e3244b",
-            "#96becd",
-            "#040404",
-            "#408480",
-            "#400484",
-            "#440404"
+        "palette_hex": [
+            "#5218fa",
+            "#e6be8a",
+            "#ffffff"
         ]
     },
     "75": {
         "team_name": "Charlton Athletic",
         "team_id": 75,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/6/6a/CharltonBadge_30Jan2020.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CharltonBadge_30Jan2020.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CharltonBadge_30Jan2020.png/640px-CharltonBadge_30Jan2020.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CharltonBadge_30Jan2020.png/640px-CharltonBadge_30Jan2020.png",
         "download_status": true,
         "file_path": "data/logo/Charlton_Athletic.png",
-        "palette": [
-            "#131b1d",
-            "#e01129",
-            "#dbdddd",
-            "#68565a",
-            "#fa3a65",
-            "#e0829b"
+        "palette_hex": [
+            "#1a1110",
+            "#ffffff",
+            "#3f00ff",
+            "#0000cd",
+            "#5218fa"
         ]
     },
     "33": {
@@ -662,13 +538,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
         "download_status": true,
         "file_path": "data/logo/Chelsea.png",
-        "palette": [
-            "#0b1a8d",
-            "#d9b048",
-            "#040404",
-            "#fb0606",
-            "#7c8cbe",
-            "#7984c4"
+        "palette_hex": [
+            "#7c1c05",
+            "#ffffff",
+            "#1dacd6"
         ]
     },
     "7290": {
@@ -678,13 +551,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Chennaiyin_FC_logo.svg/640px-Chennaiyin_FC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Chennaiyin.png",
-        "palette": [
-            "#1e4593",
-            "#f8cd1c",
-            "#040404",
-            "#9f8446",
-            "#8ca4c8",
-            "#8199c4"
+        "palette_hex": [
+            "#8b4513",
+            "#0fc0fc",
+            "#08e8de"
         ]
     },
     "231": {
@@ -694,29 +564,22 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/A.C._ChievoVerona_logo.svg/800px-A.C._ChievoVerona_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Chievo.png",
-        "palette": [
-            "#153085",
-            "#fad304",
-            "#040404",
-            "#847c44",
-            "#8c7c44",
-            "#8c8444"
+        "palette_hex": [
+            "#00bfff",
+            "#882d17"
         ]
     },
     "769": {
         "team_name": "Colombia",
         "team_id": 769,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_FCF_2_2023.png/800px-Logo_FCF_2_2023.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_FCF_2_2023.png/800px-Logo_FCF_2_2023.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_FCF_2_2023.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_FCF_2_2023.png",
         "download_status": true,
         "file_path": "data/logo/Colombia.png",
-        "palette": [
-            "#f2343d",
-            "#040404",
-            "#f3e309",
-            "#0d5cb3",
-            "#4aa4b8",
-            "#ec8aad"
+        "palette_hex": [
+            "#273be2",
+            "#08e8de",
+            "#b06500"
         ]
     },
     "795": {
@@ -726,13 +589,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Costa_Rica_national_football_team_logo.svg/1200px-Costa_Rica_national_football_team_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Costa_Rica.png",
-        "palette": [
-            "#e4242c",
-            "#111428",
-            "#ebc583",
-            "#848aa2",
-            "#666d8c",
-            "#4f5679"
+        "palette_hex": [
+            "#ffffff",
+            "#273be2",
+            "#592720",
+            "#87ceeb"
         ]
     },
     "785": {
@@ -742,29 +603,24 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Croatian_Football_Federation_logo.svg/1200px-Croatian_Football_Federation_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Croatia.png",
-        "palette": [
-            "#dabd83",
-            "#040404",
-            "#4084c3",
-            "#e41c23",
-            "#0955a2",
-            "#6d5525"
+        "palette_hex": [
+            "#273be2",
+            "#ffffff",
+            "#71a6d2",
+            "#964b00",
+            "#cd853f"
         ]
     },
     "31": {
         "team_name": "Crystal Palace",
         "team_id": 31,
-        "original_link": "https://en.wikipedia.org/wiki/Crystal_Palace_F.C.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/170px-Crystal_Palace_FC_logo_%282022%29.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/175px-Crystal_Palace_FC_logo_%282022%29.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_(2022).svg/175px-Crystal_Palace_FC_logo_(2022).svg.png",
         "download_status": true,
         "file_path": "data/logo/Crystal_Palace.png",
-        "palette": [
-            "#d4d1d6",
-            "#040404",
-            "#0756a5",
-            "#e4332d",
-            "#6095c7",
-            "#5f4671"
+        "palette_hex": [
+            "#964b00",
+            "#ffffff"
         ]
     },
     "912": {
@@ -774,13 +630,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Czech_Republic_national_football_team_logo.svg/1200px-Czech_Republic_national_football_team_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Czech_Republic.png",
-        "palette": [
-            "#ea2c1d",
-            "#040711",
-            "#cecccd",
-            "#94142c",
-            "#a487a0",
-            "#44649c"
+        "palette_hex": [
+            "#273be2",
+            "#ffffff",
+            "#333399",
+            "#cfcfc4"
         ]
     },
     "17469": {
@@ -790,13 +644,12 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Czechoslovakian_FA_Logo.svg/1200px-Czechoslovakian_FA_Logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Czechoslovakia.png",
-        "palette": [
-            "#f0bb3c",
-            "#040404",
-            "#348cdb",
-            "#db2424",
-            "#5f5549",
-            "#416fa3"
+        "palette_hex": [
+            "#000000",
+            "#ffffff",
+            "#0fc0fc",
+            "#e08d3c",
+            "#273be2"
         ]
     },
     "552": {
@@ -806,29 +659,25 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/C\u00e1diz_CF_logo.svg/1200px-C\u00e1diz_CF_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/C\u00e1diz.png",
-        "palette": [
-            "#efd616",
-            "#040404",
-            "#0443a3",
-            "#c81622",
-            "#5f5111",
-            "#718d5f"
+        "palette_hex": [
+            "#000000",
+            "#00ffff",
+            "#964b00",
+            "#00b7eb"
         ]
     },
     "373": {
         "team_name": "C\u00f3rdoba CF",
         "team_id": 373,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/9/96/C%C3%B3rdoba_CF_logo.svg/1200px-C%C3%B3rdoba_CF_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/C\u00f3rdoba_CF_logo.svg/1200px-C\u00f3rdoba_CF_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/9/96/C%C3%B3rdoba_CF_logo.svg/800px-C%C3%B3rdoba_CF_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/C\u00f3rdoba_CF_logo.svg/800px-C\u00f3rdoba_CF_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/C\u00f3rdoba_CF.png",
-        "palette": [
-            "#ddad1e",
-            "#04160e",
-            "#ac1c2c",
-            "#39906b",
-            "#2d7c5c",
-            "#2c7c54"
+        "palette_hex": [
+            "#ffffff",
+            "#195905",
+            "#1dacd6",
+            "#333399"
         ]
     },
     "872": {
@@ -838,29 +687,23 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sv_darmstadt_98_sammelbild.jpg",
         "download_status": true,
         "file_path": "data/logo/Darmstadt_98.jpg",
-        "palette": [
-            "#b99b83",
-            "#157ca2",
-            "#1c1a1a",
-            "#0c3662",
-            "#6ab4cd",
-            "#8c5c44"
+        "palette_hex": [
+            "#007ba7",
+            "#b38b6d",
+            "#007aa5"
         ]
     },
     "776": {
         "team_name": "Denmark",
         "team_id": 776,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dansk_boldspil_union_logo.svg/800px-Dansk_boldspil_union_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dansk_boldspil_union_logo.svg/800px-Dansk_boldspil_union_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/9/9d/Dansk_boldspil_union_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Dansk_boldspil_union_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/Denmark.png",
-        "palette": [
-            "#cc1d1e",
-            "#f4cccd",
-            "#040404",
-            "#e48c94",
-            "#ac0404",
-            "#308480"
+        "file_path": "data/logo/Denmark.svg",
+        "palette_hex": [
+            "#1c39bb",
+            "#ffffff",
+            "#273be2"
         ]
     },
     "206": {
@@ -870,13 +713,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_(2020).svg/1200px-Deportivo_Alaves_logo_(2020).svg.png",
         "download_status": true,
         "file_path": "data/logo/Deportivo_Alav\u00e9s.png",
-        "palette": [
-            "#0434a3",
-            "#040404",
-            "#ccd6e8",
-            "#5677c0",
-            "#7a94cb",
-            "#0404fc"
+        "palette_hex": [
+            "#a81c07",
+            "#ffffff"
         ]
     },
     "7286": {
@@ -886,13 +725,12 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/East_Bengal_FC_logo.svg/1200px-East_Bengal_FC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/East_Bengal.png",
-        "palette": [
-            "#fb9c22",
-            "#121c34",
-            "#f32434",
-            "#4e6ea6",
-            "#754420",
-            "#849bc1"
+        "palette_hex": [
+            "#273be2",
+            "#1e90ff",
+            "#ffffff",
+            "#8b4513",
+            "#1a2421"
         ]
     },
     "3565": {
@@ -902,13 +740,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Ecuador_national_football_team.png",
         "download_status": true,
         "file_path": "data/logo/Ecuador.png",
-        "palette": [
-            "#ccac6e",
-            "#051d5c",
-            "#040404",
-            "#c40c3c",
-            "#706a6c",
-            "#7c7c7c"
+        "palette_hex": [
+            "#480607",
+            "#73a9c2"
         ]
     },
     "774": {
@@ -918,13 +752,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Egypt_national_football_team.png",
         "download_status": true,
         "file_path": "data/logo/Egypt.png",
-        "palette": [
-            "#050505",
-            "#d4d7d3",
-            "#11953b",
-            "#e30414",
-            "#575656",
-            "#7c7c7c"
+        "palette_hex": [
+            "#ffffff",
+            "#000000",
+            "#0000cd",
+            "#fffafa"
         ]
     },
     "322": {
@@ -934,13 +766,12 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SD_Eibar_logo_2016.svg/640px-SD_Eibar_logo_2016.svg.png",
         "download_status": true,
         "file_path": "data/logo/Eibar.png",
-        "palette": [
-            "#040c17",
-            "#e09814",
-            "#0473bb",
-            "#84043c",
-            "#4f99ca",
-            "#605b3e"
+        "palette_hex": [
+            "#ffffff",
+            "#7b3f00",
+            "#b06500",
+            "#0892d0",
+            "#32127a"
         ]
     },
     "184": {
@@ -950,13 +781,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1200px-Eintracht_Frankfurt_Logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Eintracht_Frankfurt.png",
-        "palette": [
-            "#e40c14",
-            "#040404",
-            "#f8c9cc",
-            "#f0848c",
-            "#cc0404",
-            "#388480"
+        "palette_hex": [
+            "#0000cd",
+            "#ffffff"
         ]
     },
     "1042": {
@@ -966,13 +793,12 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Elche_CF_logo.svg",
         "download_status": true,
         "file_path": "data/logo/Elche.svg",
-        "palette": [
-            "#cfb262",
-            "#c2192d",
-            "#040806",
-            "#1c448b",
-            "#f4eedd",
-            "#347c3c"
+        "palette_hex": [
+            "#87ceeb",
+            "#ffffff",
+            "#1c39bb",
+            "#8b4513",
+            "#126180"
         ]
     },
     "290": {
@@ -982,29 +808,26 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Empoli_F.C._logo_(2021).png",
         "download_status": true,
         "file_path": "data/logo/Empoli.png",
-        "palette": [
-            "#e3e3e3",
-            "#08121e",
-            "#1e5797",
-            "#3776ba",
-            "#505b6d",
-            "#7f9dbb"
+        "palette_hex": [
+            "#000000",
+            "#996515",
+            "#704214",
+            "#b5651d",
+            "#b87333",
+            "#8b4513",
+            "#80461b"
         ]
     },
     "768": {
         "team_name": "England",
         "team_id": 768,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/FA_crest_2009.svg/640px-FA_crest_2009.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/FA_crest_2009.svg/640px-FA_crest_2009.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/England_national_football_team_crest.svg/1200px-England_national_football_team_crest.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/England_national_football_team_crest.svg/1200px-England_national_football_team_crest.svg.png",
         "download_status": true,
         "file_path": "data/logo/England.png",
-        "palette": [
-            "#042c5c",
-            "#dc5a64",
-            "#040504",
-            "#58768b",
-            "#7a90ac",
-            "#73a089"
+        "palette_hex": [
+            "#ffffff",
+            "#bb6528"
         ]
     },
     "214": {
@@ -1014,29 +837,23 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Rcd_espanyol_logo.svg/1200px-Rcd_espanyol_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Espanyol.png",
-        "palette": [
-            "#040404",
-            "#fb141c",
-            "#f3c33d",
-            "#1c6bc3",
-            "#9980aa",
-            "#8c7ca4"
+        "palette_hex": [
+            "#0000ff",
+            "#b5651d",
+            "#48d1cc",
+            "#ffffff"
         ]
     },
     "29": {
         "team_name": "Everton",
         "team_id": 29,
-        "original_link": "https://en.wikipedia.org/wiki/Everton_F.C.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/190px-Everton_FC_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/Everton.png",
-        "palette": [
-            "#09099e",
-            "#c9c9eb",
-            "#040404",
-            "#7c7ccc",
-            "#040484",
-            "#0404fc"
+        "file_path": "data/logo/Everton.svg",
+        "palette_hex": [
+            "#990000",
+            "#ffffff"
         ]
     },
     "186": {
@@ -1046,13 +863,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014\u2013.svg/1200px-1._FC_Koeln_Logo_2014\u2013.svg.png",
         "download_status": true,
         "file_path": "data/logo/FC_K\u00f6ln.png",
-        "palette": [
-            "#0a0a0a",
-            "#e30514",
-            "#d4c4c5",
-            "#594d4c",
-            "#7c7c7b",
-            "#747474"
+        "palette_hex": [
+            "#ffffff",
+            "#1a2421",
+            "#0000cd"
         ]
     },
     "256": {
@@ -1062,13 +876,13 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg",
         "download_status": true,
         "file_path": "data/logo/FC_Porto.svg",
-        "palette": [
-            "#cb7d59",
-            "#060705",
-            "#244574",
-            "#3c75a6",
-            "#10863f",
-            "#5ea9c3"
+        "palette_hex": [
+            "#ffffff",
+            "#654321",
+            "#80461b",
+            "#826644",
+            "#b87333",
+            "#1560bd"
         ]
     },
     "177": {
@@ -1078,13 +892,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
         "download_status": true,
         "file_path": "data/logo/FSV_Mainz_05.png",
-        "palette": [
-            "#e40414",
-            "#040404",
-            "#f8c4c7",
-            "#ec515a",
-            "#f47c84",
-            "#388480"
+        "palette_hex": [
+            "#ffffff",
+            "#0000cd"
         ]
     },
     "1835": {
@@ -1094,13 +904,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Huuhkajat_logo.svg/1200px-Huuhkajat_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Finland.png",
-        "palette": [
-            "#c49f55",
-            "#045ca4",
-            "#040404",
-            "#699ecc",
-            "#7cacd0",
-            "#0454a4"
+        "palette_hex": [
+            "#964b00",
+            "#ffffff",
+            "#4997d0"
         ]
     },
     "239": {
@@ -1110,13 +917,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2022_ACF_Fiorentina_logo.svg/1200px-2022_ACF_Fiorentina_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Fiorentina.png",
-        "palette": [
-            "#64348c",
-            "#db3525",
-            "#040404",
-            "#e0d0e0",
-            "#7c5ca0",
-            "#442c40"
+        "palette_hex": [
+            "#ffffff",
+            "#873260",
+            "#273be2"
         ]
     },
     "771": {
@@ -1126,29 +930,26 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/France_national_football_team_seal.svg/1200px-France_national_football_team_seal.svg.png",
         "download_status": true,
         "file_path": "data/logo/France.png",
-        "palette": [
-            "#0c1117",
-            "#c4cccc",
-            "#16548b",
-            "#768695",
-            "#4f5c71",
-            "#848c9c"
+        "palette_hex": [
+            "#4b3621",
+            "#ffffff",
+            "#dbd7d2",
+            "#b2beb5"
         ]
     },
     "291": {
         "team_name": "Frosinone",
         "team_id": 291,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Frosinone_Calcio_logo.svg/640px-Frosinone_Calcio_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Frosinone_Calcio_logo.svg/640px-Frosinone_Calcio_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Frosinone_Calcio_logo.svg/1200px-Frosinone_Calcio_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Frosinone_Calcio_logo.svg/1200px-Frosinone_Calcio_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Frosinone.png",
-        "palette": [
-            "#e3d770",
-            "#054592",
-            "#060606",
-            "#046cb4",
-            "#847c4f",
-            "#77a46c"
+        "palette_hex": [
+            "#964b00",
+            "#00bfff",
+            "#efdecd",
+            "#b06500",
+            "#ffffff"
         ]
     },
     "55": {
@@ -1158,13 +959,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/150px-Fulham_FC_%28shield%29.svg.png",
         "download_status": true,
         "file_path": "data/logo/Fulham.png",
-        "palette": [
-            "#050505",
-            "#c70404",
-            "#c1c1c1",
-            "#573636",
-            "#7c7c7c",
-            "#747474"
+        "palette_hex": [
+            "#ffffff",
+            "#000000",
+            "#0000cd"
         ]
     },
     "160": {
@@ -1174,13 +972,14 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Gazelec_Ajaccio_logo.svg/1200px-Gazelec_Ajaccio_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Gaz\u00e9lec_Ajaccio.png",
-        "palette": [
-            "#cc3b22",
-            "#08192a",
-            "#f3c32d",
-            "#0461a3",
-            "#959899",
-            "#4294c4"
+        "palette_hex": [
+            "#273be2",
+            "#1c39bb",
+            "#7b3f00",
+            "#0fc0fc",
+            "#b06500",
+            "#964b00",
+            "#253529"
         ]
     },
     "233": {
@@ -1190,45 +989,41 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/2/25/Genoa_C.F.C._logo.png",
         "download_status": true,
         "file_path": "data/logo/Genoa.png",
-        "palette": [
-            "#ac1f1c",
-            "#f9d317",
-            "#041e31",
-            "#042044",
-            "#4c5c2c",
-            "#d48c8c"
+        "palette_hex": [
+            "#0014a8",
+            "#2c1608",
+            "#0fc0fc",
+            "#ffffff"
         ]
     },
     "2721": {
         "team_name": "German DR",
         "team_id": 2721,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/3/30/East_Germany_national_football_team_logo.svg/1200px-East_Germany_national_football_team_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/East_Germany_national_football_team_logo.svg/1200px-East_Germany_national_football_team_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/3/30/East_Germany_national_football_team_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/East_Germany_national_football_team_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/German_DR.png",
-        "palette": [
-            "#d20d04",
-            "#080604",
-            "#040484",
-            "#f1e90b",
-            "#5b3607",
-            "#7b740b"
+        "file_path": "data/logo/German_DR.svg",
+        "palette_hex": [
+            "#800000",
+            "#0000cd",
+            "#00ffef",
+            "#1a2421"
         ]
     },
     "770": {
         "team_name": "Germany",
         "team_id": 770,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/DFBEagle.svg/1200px-DFBEagle.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/DFBEagle.svg/1200px-DFBEagle.svg.png",
+        "original_link": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/DFBEagle.svg/200px-DFBEagle.svg.png",
         "download_status": true,
         "file_path": "data/logo/Germany.png",
-        "palette": [
-            "#b1a662",
-            "#040404",
-            "#fc0404",
-            "#408458",
-            "#40045c",
-            "#440404"
+        "palette_hex": [
+            "#73a9c2",
+            "#5f9ea0",
+            "#367588",
+            "#88d8c0",
+            "#4682b4",
+            "#99badd"
         ]
     },
     "216": {
@@ -1238,13 +1033,13 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/800px-Getafe_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Getafe.png",
-        "palette": [
-            "#d5d6ad",
-            "#051626",
-            "#0579ba",
-            "#5cac46",
-            "#e83832",
-            "#106096"
+        "palette_hex": [
+            "#964b00",
+            "#3cb371",
+            "#b06500",
+            "#b8860b",
+            "#ffffff",
+            "#273be2"
         ]
     },
     "4885": {
@@ -1254,13 +1049,12 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/1/18/Ghana_FA.png",
         "download_status": true,
         "file_path": "data/logo/Ghana.png",
-        "palette": [
-            "#f5e011",
-            "#040404",
-            "#d70920",
-            "#0b9732",
-            "#634c3d",
-            "#7c7c7c"
+        "palette_hex": [
+            "#000000",
+            "#00ffff",
+            "#ffffff",
+            "#0000cd",
+            "#2a8000"
         ]
     },
     "1036": {
@@ -1270,29 +1064,27 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/d/df/Gimn\u00e0stic_tarragona_200px.png",
         "download_status": true,
         "file_path": "data/logo/Gimn\u00e0stic_Tarragona.png",
-        "palette": [
-            "#1e4237",
-            "#c4c7bd",
-            "#d73435",
-            "#dfb74f",
-            "#efba61",
-            "#937d74"
+        "palette_hex": [
+            "#1a2421",
+            "#273be2",
+            "#73c2fb",
+            "#568203",
+            "#6495ed",
+            "#7df9ff"
         ]
     },
     "211": {
         "team_name": "Girona",
         "team_id": 211,
-        "original_link": "https://en.wikipedia.org/wiki/Girona_FC",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Girona_FC_new_logo.png/190px-Girona_FC_new_logo.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/7/7a/Girona_FC_new_logo.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Girona_FC_new_logo.png",
         "download_status": true,
         "file_path": "data/logo/Girona.png",
-        "palette": [
-            "#ce2238",
-            "#f7dabe",
-            "#040404",
-            "#e38c9c",
-            "#740404",
-            "#308480"
+        "palette_hex": [
+            "#273be2",
+            "#fffafa",
+            "#f8f8ff",
+            "#1c39bb"
         ]
     },
     "7288": {
@@ -1302,29 +1094,22 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/FC_Goa_logo.svg/1200px-FC_Goa_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Goa.png",
-        "palette": [
-            "#f37b2c",
-            "#1c2454",
-            "#040404",
-            "#dddee5",
-            "#868ba4",
-            "#8c94ac"
+        "palette_hex": [
+            "#592720",
+            "#1f75fe",
+            "#ffffff"
         ]
     },
     "1049": {
         "team_name": "Granada",
         "team_id": 1049,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Logo_of_Granada_Club_de_F%C3%BAtbol.svg/800px-Logo_of_Granada_Club_de_F%C3%BAtbol.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Logo_of_Granada_Club_de_F\u00fatbol.svg/800px-Logo_of_Granada_Club_de_F\u00fatbol.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Logo_of_Granada_Club_de_F%C3%BAtbol.svg/1200px-Logo_of_Granada_Club_de_F%C3%BAtbol.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Logo_of_Granada_Club_de_F\u00fatbol.svg/1200px-Logo_of_Granada_Club_de_F\u00fatbol.svg.png",
         "download_status": true,
         "file_path": "data/logo/Granada.png",
-        "palette": [
-            "#c41434",
-            "#efc1c9",
-            "#040404",
-            "#dd8494",
-            "#ac0454",
-            "#308480"
+        "palette_hex": [
+            "#ffffff",
+            "#1c39bb"
         ]
     },
     "142": {
@@ -1334,29 +1119,23 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/En_Avant_Guingamp_logo.svg/1200px-En_Avant_Guingamp_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Guingamp.png",
-        "palette": [
-            "#e30414",
-            "#040404",
-            "#dcbfc2",
-            "#5a3a3c",
-            "#7c7c7c",
-            "#747474"
+        "palette_hex": [
+            "#ffffff",
+            "#0000cd",
+            "#000000"
         ]
     },
     "171": {
         "team_name": "Hamburger SV",
         "team_id": 171,
-        "original_link": "https://en.wikipedia.org/wiki/Hamburger_SV",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/200px-Hamburger_SV_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/1200px-Hamburger_SV_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/1200px-Hamburger_SV_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Hamburger_SV.png",
-        "palette": [
-            "#1c5cb4",
-            "#241c24",
-            "#abbdd8",
-            "#618dc8",
-            "#939193",
-            "#488090"
+        "palette_hex": [
+            "#1560bd",
+            "#ffffff",
+            "#1a2421"
         ]
     },
     "178": {
@@ -1366,13 +1145,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/1200px-Hannover_96_Logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Hannover_96.png",
-        "palette": [
-            "#149c34",
-            "#040404",
-            "#c7d2c9",
-            "#5d5d5d",
-            "#7c7c7c",
-            "#3c3c3c"
+        "palette_hex": [
+            "#000000",
+            "#ffffff",
+            "#228b22"
         ]
     },
     "226": {
@@ -1382,29 +1158,21 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/9/92/Hellas_Verona_FC_logo_(2020).svg",
         "download_status": true,
         "file_path": "data/logo/Hellas_Verona.svg",
-        "palette": [
-            "#042c6c",
-            "#040404",
-            "#044c69",
-            "#043024",
-            "#040428",
-            "#080404"
+        "palette_hex": [
+            "#7b3f00"
         ]
     },
     "173": {
         "team_name": "Hertha Berlin",
         "team_id": 173,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/1200px-Hertha_BSC_Logo_2012.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/1200px-Hertha_BSC_Logo_2012.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/190px-Hertha_BSC_Logo_2012.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/190px-Hertha_BSC_Logo_2012.svg.png",
         "download_status": true,
         "file_path": "data/logo/Hertha_Berlin.png",
-        "palette": [
-            "#044c9c",
-            "#040404",
-            "#c2cad2",
-            "#6594c4",
-            "#606060",
-            "#223c56"
+        "palette_hex": [
+            "#964b00",
+            "#ffffff",
+            "#000000"
         ]
     },
     "175": {
@@ -1414,13 +1182,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_TSG_Hoffenheim.svg",
         "download_status": true,
         "file_path": "data/logo/Hoffenheim.svg",
-        "palette": [
-            "#1d64b4",
-            "#040404",
-            "#ceddef",
-            "#8cb4dc",
-            "#0404fc",
-            "#048484"
+        "palette_hex": [
+            "#b5651d",
+            "#ffffff"
         ]
     },
     "902": {
@@ -1430,29 +1194,25 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Logo_of_SD_Huesca.svg/1200px-Logo_of_SD_Huesca.svg.png",
         "download_status": true,
         "file_path": "data/logo/Huesca.png",
-        "palette": [
-            "#2c3484",
-            "#040504",
-            "#cb142c",
-            "#f1e52a",
-            "#278b87",
-            "#704e44"
+        "palette_hex": [
+            "#ffffff",
+            "#8a3324",
+            "#273be2",
+            "#00ffff"
         ]
     },
     "916": {
         "team_name": "Hungary",
         "team_id": 916,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Hungarian_Football_Federation_logo.svg/800px-Hungarian_Football_Federation_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Hungarian_Football_Federation_logo.svg/800px-Hungarian_Football_Federation_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/9/9b/Hungarian_Football_Federation_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Hungarian_Football_Federation_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/Hungary.png",
-        "palette": [
-            "#06ac4b",
-            "#dab32d",
-            "#040404",
-            "#eb2424",
-            "#f4eccd",
-            "#79d4a4"
+        "file_path": "data/logo/Hungary.svg",
+        "palette_hex": [
+            "#4cbb17",
+            "#273be2",
+            "#1dacd6",
+            "#ffffff"
         ]
     },
     "7289": {
@@ -1462,13 +1222,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hyderabad-fc-logo-star.svg",
         "download_status": true,
         "file_path": "data/logo/Hyderabad.svg",
-        "palette": [
-            "#f9da04",
-            "#0b090b",
-            "#5f5319",
-            "#867414",
-            "#7c7c7c",
-            "#747474"
+        "palette_hex": [
+            "#00bfff",
+            "#1a2421"
         ]
     },
     "1218": {
@@ -1478,29 +1234,24 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8a/H\u00e9rcules_cf_200px.png",
         "download_status": true,
         "file_path": "data/logo/H\u00e9rcules.png",
-        "palette": [
-            "#f4ca15",
-            "#0a0708",
-            "#053c85",
-            "#379322",
-            "#635417",
-            "#8c6c04"
+        "palette_hex": [
+            "#00bfff",
+            "#7b3f00",
+            "#000000",
+            "#ffffff",
+            "#100c08"
         ]
     },
     "793": {
         "team_name": "Iceland",
         "team_id": 793,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Iceland_national_football_team_logo.svg/640px-Iceland_national_football_team_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Iceland_national_football_team_logo.svg/640px-Iceland_national_football_team_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Iceland_national_football_team_logo.svg/1200px-Iceland_national_football_team_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Iceland_national_football_team_logo.svg/1200px-Iceland_national_football_team_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Iceland.png",
-        "palette": [
-            "#040404",
-            "#0444e4",
-            "#c2d2f8",
-            "#5d88ee",
-            "#7ca4f4",
-            "#0434cc"
+        "palette_hex": [
+            "#f94d00",
+            "#ffffff"
         ]
     },
     "189": {
@@ -1510,13 +1261,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/FC_Ingolstadt_04_logo.svg/1200px-FC_Ingolstadt_04_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Ingolstadt.png",
-        "palette": [
-            "#040404",
-            "#db0515",
-            "#ccc3c4",
-            "#585050",
-            "#7c7c7c",
-            "#747474"
+        "palette_hex": [
+            "#ffffff",
+            "#000000",
+            "#0000cd"
         ]
     },
     "238": {
@@ -1526,61 +1274,52 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
         "download_status": true,
         "file_path": "data/logo/Inter_Milan.svg",
-        "palette": [
-            "#04249c",
-            "#040404",
-            "#bac3e4",
-            "#7589c9",
-            "#5c73c0",
-            "#444040"
+        "palette_hex": [
+            "#a81c07",
+            "#ffffff",
+            "#000000"
         ]
     },
     "797": {
         "team_name": "Iran",
         "team_id": 797,
-        "original_link": "https://en.wikipedia.org/wiki/Football_Federation_Islamic_Republic_of_Iran",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Iranian_football_badge.svg/150px-Iranian_football_badge.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Iranian_football_badge.svg/800px-Iranian_football_badge.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Iranian_football_badge.svg/800px-Iranian_football_badge.svg.png",
         "download_status": true,
         "file_path": "data/logo/Iran.png",
-        "palette": [
-            "#d94146",
-            "#109954",
-            "#0c0c07",
-            "#dfe2df",
-            "#61605f",
-            "#848484"
+        "palette_hex": [
+            "#fffafa",
+            "#100c08",
+            "#273be2",
+            "#568203"
         ]
     },
     "914": {
         "team_name": "Italy",
         "team_id": 914,
-        "original_link": "https://en.wikipedia.org/wiki/Italy_national_football_team",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Italy_National_Football_Team_-_2023.svg/135px-Logo_Italy_National_Football_Team_-_2023.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Italy_National_Football_Team_-_2023.svg/1200px-Logo_Italy_National_Football_Team_-_2023.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Italy_National_Football_Team_-_2023.svg/1200px-Logo_Italy_National_Football_Team_-_2023.svg.png",
         "download_status": true,
         "file_path": "data/logo/Italy.png",
-        "palette": [
-            "#0454bb",
-            "#049c4c",
-            "#e4042c",
-            "#c4b484",
-            "#040404",
-            "#444040"
+        "palette_hex": [
+            "#b06500",
+            "#ffffff",
+            "#568203",
+            "#3f00ff"
         ]
     },
     "2021": {
         "team_name": "Jamshedpur",
         "team_id": 2021,
-        "original_link": "https://en.wikipedia.org/wiki/Jamshedpur_FC",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Jamshedpur_FC_logo.svg/190px-Jamshedpur_FC_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Jamshedpur_FC_logo.svg/1200px-Jamshedpur_FC_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Jamshedpur_FC_logo.svg/1200px-Jamshedpur_FC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Jamshedpur.png",
-        "palette": [
-            "#0d4987",
-            "#d8cec1",
-            "#0aa6ec",
-            "#040404",
-            "#e71f30",
-            "#3c97df"
+        "palette_hex": [
+            "#7b3f00",
+            "#ffffff",
+            "#fb9902",
+            "#273be2"
         ]
     },
     "778": {
@@ -1590,13 +1329,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Japan_FA_logo.svg/1200px-Japan_FA_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Japan.png",
-        "palette": [
-            "#041435",
-            "#fbbb04",
-            "#d30c13",
-            "#956f0e",
-            "#c8c8c8",
-            "#646441"
+        "palette_hex": [
+            "#00bfff",
+            "#7c1c05",
+            "#000000"
         ]
     },
     "224": {
@@ -1606,29 +1342,21 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Juventus_FC_2017_icon_%28black%29.svg/120px-Juventus_FC_2017_icon_%28black%29.svg.png",
         "download_status": true,
         "file_path": "data/logo/Juventus.png",
-        "palette": [
-            "#040404",
-            "#080404",
-            "#080404",
-            "#080404",
-            "#080404",
-            "#080404"
+        "palette_hex": [
+            "#000000"
         ]
     },
     "7283": {
         "team_name": "Kerala Blasters",
         "team_id": 7283,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/e/e7/Kerala_Blasters_FC_logo.svg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e7/Kerala_Blasters_FC_logo.svg",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Kerala_Blasters_FC_logo.svg/1200px-Kerala_Blasters_FC_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Kerala_Blasters_FC_logo.svg/1200px-Kerala_Blasters_FC_logo.svg.png",
         "download_status": true,
-        "file_path": "data/logo/Kerala_Blasters.svg",
-        "palette": [
-            "#efe352",
-            "#1a399b",
-            "#040404",
-            "#777f7d",
-            "#8ca28e",
-            "#6c8fcc"
+        "file_path": "data/logo/Kerala_Blasters.png",
+        "palette_hex": [
+            "#8a3324",
+            "#964b00",
+            "#48d1cc"
         ]
     },
     "208": {
@@ -1638,13 +1366,12 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/1200px-UD_Las_Palmas_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Las_Palmas.png",
-        "palette": [
-            "#f7d91b",
-            "#040404",
-            "#044c9b",
-            "#d40d17",
-            "#0b93c7",
-            "#604523"
+        "palette_hex": [
+            "#00ffff",
+            "#964b00",
+            "#ffffff",
+            "#000000",
+            "#73c2fb"
         ]
     },
     "236": {
@@ -1654,13 +1381,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/1200px-S.S._Lazio_badge.svg.png",
         "download_status": true,
         "file_path": "data/logo/Lazio.png",
-        "palette": [
-            "#c7c472",
-            "#040608",
-            "#71aacc",
-            "#456391",
-            "#585e4b",
-            "#847c34"
+        "palette_hex": [
+            "#ffffff",
+            "#00b7eb",
+            "#f8de7e",
+            "#704214"
         ]
     },
     "101": {
@@ -1670,13 +1395,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Leeds_United.png",
-        "palette": [
-            "#040404",
-            "#0464ab",
-            "#fbe304",
-            "#589398",
-            "#c9ddea",
-            "#87a452"
+        "palette_hex": [
+            "#00ffff",
+            "#b06500",
+            "#ffffff"
         ]
     },
     "205": {
@@ -1686,45 +1408,38 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan\u00e9s_logo.svg/1200px-Club_Deportivo_Legan\u00e9s_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Legan\u00e9s.png",
-        "palette": [
-            "#d0a828",
-            "#0c1c0f",
-            "#2d922b",
-            "#7a5c0f",
-            "#245a9a",
-            "#f10704"
+        "palette_hex": [
+            "#ffffff",
+            "#0892d0",
+            "#228b22"
         ]
     },
     "22": {
         "team_name": "Leicester City",
         "team_id": 22,
-        "original_link": "https://en.wikipedia.org/wiki/Leicester_City_F.C.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/180px-Leicester_City_crest.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
         "download_status": true,
         "file_path": "data/logo/Leicester_City.png",
-        "palette": [
-            "#155fa7",
-            "#d9cb93",
-            "#040404",
-            "#8a8c54",
-            "#7caccc",
-            "#0404fc"
+        "palette_hex": [
+            "#ffffff",
+            "#964b00",
+            "#0fc0fc"
         ]
     },
     "221": {
         "team_name": "Levante UD",
         "team_id": 221,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/800px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni\u00f3n_Deportiva,_S.A.D._logo.svg/800px-Levante_Uni\u00f3n_Deportiva,_S.A.D._logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/640px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni\u00f3n_Deportiva,_S.A.D._logo.svg/640px-Levante_Uni\u00f3n_Deportiva,_S.A.D._logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Levante_UD.png",
-        "palette": [
-            "#e2b83a",
-            "#040404",
-            "#b3043b",
-            "#045ba3",
-            "#5e3f2d",
-            "#7c7c7c"
+        "palette_hex": [
+            "#000000",
+            "#4b0082",
+            "#b06500",
+            "#00bfff",
+            "#ffffff"
         ]
     },
     "143": {
@@ -1734,29 +1449,25 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Lille_OSC_2018_logo.svg/195px-Lille_OSC_2018_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Lille.png",
-        "palette": [
-            "#e4231b",
-            "#10102d",
-            "#e4c9d0",
-            "#5e5c93",
-            "#8887af",
-            "#4c4c7c"
+        "palette_hex": [
+            "#ffffff",
+            "#701c1c",
+            "#273be2"
         ]
     },
     "24": {
         "team_name": "Liverpool",
         "team_id": 24,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+        "original_link": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/180px-Liverpool_FC.svg.png",
         "download_status": true,
         "file_path": "data/logo/Liverpool.png",
-        "palette": [
-            "#e4dfd3",
-            "#041b17",
-            "#08927b",
-            "#b30517",
-            "#6b0c0d",
-            "#5c7c7c"
+        "palette_hex": [
+            "#ffffff",
+            "#808000",
+            "#0000cd",
+            "#120a8f",
+            "#568203"
         ]
     },
     "165": {
@@ -1766,13 +1477,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/FC_Lorient_logo.svg/1200px-FC_Lorient_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Lorient.png",
-        "palette": [
-            "#171217",
-            "#f2861a",
-            "#6f6763",
-            "#8c8c8c",
-            "#858484",
-            "#946c50"
+        "palette_hex": [
+            "#1a2421",
+            "#ffffff",
+            "#1f75fe"
         ]
     },
     "137": {
@@ -1782,13 +1490,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/160px-Olympique_Lyonnais_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Lyon.png",
-        "palette": [
-            "#0d25ac",
-            "#e43d3e",
-            "#040404",
-            "#f3e2e0",
-            "#9da6db",
-            "#e5a3c3"
+        "palette_hex": [
+            "#a81c07",
+            "#ffffff",
+            "#3f00ff",
+            "#417dc1"
         ]
     },
     "1043": {
@@ -1798,13 +1504,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/1200px-Rcd_mallorca.svg.png",
         "download_status": true,
         "file_path": "data/logo/Mallorca.png",
-        "palette": [
-            "#eb1c23",
-            "#faf104",
-            "#040404",
-            "#14845b",
-            "#665905",
-            "#15613e"
+        "palette_hex": [
+            "#273be2",
+            "#00ffff",
+            "#000000",
+            "#568203"
         ]
     },
     "36": {
@@ -1814,13 +1518,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
         "download_status": true,
         "file_path": "data/logo/Manchester_City.png",
-        "palette": [
-            "#062d5d",
-            "#cfbb77",
-            "#6babdb",
-            "#040404",
-            "#e83324",
-            "#508abd"
+        "palette_hex": [
+            "#ffffff",
+            "#592720",
+            "#e5aa70"
         ]
     },
     "39": {
@@ -1830,29 +1531,22 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",
         "download_status": true,
         "file_path": "data/logo/Manchester_United.png",
-        "palette": [
-            "#f8da04",
-            "#d40a0b",
-            "#040404",
-            "#841604",
-            "#3d3004",
-            "#544c04"
+        "palette_hex": [
+            "#0000cd",
+            "#00ffff",
+            "#000000"
         ]
     },
     "147": {
         "team_name": "Marseille",
         "team_id": 147,
-        "original_link": "https://en.wikipedia.org/wiki/Olympique_de_Marseille",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/170px-Olympique_Marseille_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Marseille.png",
-        "palette": [
-            "#c4a45b",
-            "#0494d4",
-            "#040404",
-            "#0484bc",
-            "#404084",
-            "#444004"
+        "palette_hex": [
+            "#da9100",
+            "#6699cc"
         ]
     },
     "794": {
@@ -1862,29 +1556,24 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Mexico_national_football_team_crest.svg",
         "download_status": true,
         "file_path": "data/logo/Mexico.svg",
-        "palette": [
-            "#040404",
-            "#3b544c",
-            "#f43b44",
-            "#0b9b46",
-            "#445044",
-            "#545454"
+        "palette_hex": [
+            "#465945",
+            "#568203"
         ]
     },
     "47": {
         "team_name": "Middlesbrough",
         "team_id": 47,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/800px-Middlesbrough_FC_crest.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/800px-Middlesbrough_FC_crest.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/640px-Middlesbrough_FC_crest.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/640px-Middlesbrough_FC_crest.svg.png",
         "download_status": true,
         "file_path": "data/logo/Middlesbrough.png",
-        "palette": [
-            "#bc2426",
-            "#040404",
-            "#d2c7ca",
-            "#603534",
-            "#7c8484",
-            "#7c7c84"
+        "palette_hex": [
+            "#ffffff",
+            "#1c39bb",
+            "#273be2",
+            "#333399",
+            "#000000"
         ]
     },
     "139": {
@@ -1894,29 +1583,25 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Montpellier_HSC_logo.svg/1200px-Montpellier_HSC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Montpellier.png",
-        "palette": [
-            "#4e5877",
-            "#da7546",
-            "#040404",
-            "#dbdde3",
-            "#939cb4",
-            "#8c94b4"
+        "palette_hex": [
+            "#ffffff",
+            "#79443b",
+            "#446ccf",
+            "#808080"
         ]
     },
     "788": {
         "team_name": "Morocco",
         "team_id": 788,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Royal_Moroccan_Football_Federation_logo.svg/1200px-Royal_Moroccan_Football_Federation_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Royal_Moroccan_Football_Federation_logo.svg/1200px-Royal_Moroccan_Football_Federation_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/d/d0/Royal_Moroccan_Football_Federation_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Royal_Moroccan_Football_Federation_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/Morocco.png",
-        "palette": [
-            "#db5c47",
-            "#43ac7c",
-            "#050606",
-            "#4d9d6d",
-            "#337c5c",
-            "#6a2322"
+        "file_path": "data/logo/Morocco.svg",
+        "palette_hex": [
+            "#66b032",
+            "#273be2",
+            "#6699cc",
+            "#ffffff"
         ]
     },
     "7287": {
@@ -1926,13 +1611,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/6/68/Mumbai_City_FC_logo.svg",
         "download_status": true,
         "file_path": "data/logo/Mumbai_City.svg",
-        "palette": [
-            "#153865",
-            "#c7c2c0",
-            "#040404",
-            "#6cacdc",
-            "#846c64",
-            "#5f88b9"
+        "palette_hex": [
+            "#ffffff",
+            "#592720"
         ]
     },
     "223": {
@@ -1942,45 +1623,39 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/M\u00e1laga_CF.svg/1200px-M\u00e1laga_CF.svg.png",
         "download_status": true,
         "file_path": "data/logo/M\u00e1laga.png",
-        "palette": [
-            "#cb9f13",
-            "#080705",
-            "#044c9c",
-            "#a5d4f2",
-            "#6f98bc",
-            "#84440c"
+        "palette_hex": [
+            "#0095b6",
+            "#964b00",
+            "#ffffff",
+            "#fad6a5",
+            "#7df9ff"
         ]
     },
     "2735": {
         "team_name": "NY Cosmos",
         "team_id": 2735,
-        "original_link": "https://en.wikipedia.org/wiki/New_York_Cosmos_(1970%E2%80%931985)",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/New_York_Cosmos_77.png/220px-New_York_Cosmos_77.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/9/93/New_York_Cosmos_77.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/93/New_York_Cosmos_77.png",
         "download_status": true,
         "file_path": "data/logo/NY_Cosmos.png",
-        "palette": [
-            "#049cab",
-            "#060706",
-            "#e1c95a",
-            "#5e5d56",
-            "#046f98",
-            "#846c04"
+        "palette_hex": [
+            "#000000",
+            "#ffffff",
+            "#da9100",
+            "#00bfff",
+            "#568203"
         ]
     },
     "144": {
         "team_name": "Nantes",
         "team_id": 144,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_FC_Nantes_(avec_fond)_-_2019.svg",
+        "original_link": "https://en.wikipedia.org/wiki/FC_Nantes",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/140px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
         "download_status": true,
-        "file_path": "data/logo/Nantes.svg",
-        "palette": [
-            "#06a45a",
-            "#040404",
-            "#fbdb04",
-            "#92c526",
-            "#8bbc27",
-            "#bccc1c"
+        "file_path": "data/logo/Nantes.png",
+        "palette_hex": [
+            "#00bfff",
+            "#4cbb17"
         ]
     },
     "227": {
@@ -1990,13 +1665,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/180px-SSC_Neapel.svg.png",
         "download_status": true,
         "file_path": "data/logo/Napoli.png",
-        "palette": [
-            "#043c84",
-            "#1b9bd4",
-            "#040404",
-            "#c2e0ef",
-            "#3baedc",
-            "#567fac"
+        "palette_hex": [
+            "#7b3f00",
+            "#daa520",
+            "#ffffff"
         ]
     },
     "941": {
@@ -2006,13 +1678,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/7/78/Netherlands_national_football_team_logo.svg",
         "download_status": true,
         "file_path": "data/logo/Netherlands.svg",
-        "palette": [
-            "#f36d25",
-            "#e9e2df",
-            "#040404",
-            "#e2b29a",
-            "#fc0404",
-            "#3c8480"
+        "palette_hex": [
+            "#1f75fe",
+            "#ffffff"
         ]
     },
     "37": {
@@ -2022,45 +1690,40 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Newcastle_United.png",
-        "palette": [
-            "#d4b97b",
-            "#0c0a0c",
-            "#04b3f3",
-            "#e93b2b",
-            "#5d5244",
-            "#1f7391"
+        "palette_hex": [
+            "#1a2421",
+            "#ffb300",
+            "#1dacd6",
+            "#bebebe",
+            "#ffffff"
         ]
     },
     "775": {
         "team_name": "Nigeria",
         "team_id": 775,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/4/4e/Nigeria_national_football_team.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Nigeria_national_football_team.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/8/89/Nigeria_football_federation_logo.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/8/89/Nigeria_football_federation_logo.png",
         "download_status": true,
         "file_path": "data/logo/Nigeria.png",
-        "palette": [
-            "#0a9740",
-            "#13120e",
-            "#cdd6d0",
-            "#55745b",
-            "#56514f",
-            "#848484"
+        "palette_hex": [
+            "#ffffff",
+            "#fffafa",
+            "#273be2",
+            "#f8f8ff",
+            "#f5fffa"
         ]
     },
     "2358": {
         "team_name": "North Macedonia",
         "team_id": 2358,
-        "original_link": "https://en.wikipedia.org/wiki/North_Macedonia_national_football_team",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/North_Macedonia_national_football_team.png/168px-North_Macedonia_national_football_team.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Football_Federation_of_North_Macedonia_logo.svg/1200px-Football_Federation_of_North_Macedonia_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Football_Federation_of_North_Macedonia_logo.svg/1200px-Football_Federation_of_North_Macedonia_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/North_Macedonia.png",
-        "palette": [
-            "#df3d30",
-            "#040506",
-            "#f5cf84",
-            "#941e23",
-            "#5297bf",
-            "#d672b2"
+        "palette_hex": [
+            "#ffffff",
+            "#273be2",
+            "#1c39bb"
         ]
     },
     "7285": {
@@ -2070,13 +1733,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/NorthEast_United_FC_logo.svg/1200px-NorthEast_United_FC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/NorthEast_United.png",
-        "palette": [
-            "#130f0f",
-            "#f3f3f3",
-            "#e4242c",
-            "#646262",
-            "#888787",
-            "#7c7c7c"
+        "palette_hex": [
+            "#1a2421",
+            "#f5f5f5",
+            "#273be2"
         ]
     },
     "56": {
@@ -2086,29 +1746,23 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Norwich_City_FC_logo.svg/1200px-Norwich_City_FC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Norwich_City.png",
-        "palette": [
-            "#048c43",
-            "#fbf304",
-            "#040404",
-            "#84bc24",
-            "#048437",
-            "#04fc04"
+        "palette_hex": [
+            "#568203",
+            "#00ffff"
         ]
     },
     "136": {
         "team_name": "OGC Nice",
         "team_id": 136,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/1200px-OGC_Nice_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/1200px-OGC_Nice_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/640px-OGC_Nice_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/640px-OGC_Nice_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/OGC_Nice.png",
-        "palette": [
-            "#b59d59",
-            "#130f12",
-            "#eb1c24",
-            "#685b45",
-            "#888786",
-            "#847c84"
+        "palette_hex": [
+            "#1a2421",
+            "#5d8aa8",
+            "#ffffff",
+            "#273be2"
         ]
     },
     "7291": {
@@ -2118,13 +1772,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Odisha_FC_logo.svg/1200px-Odisha_FC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Odisha.png",
-        "palette": [
-            "#1e1c44",
-            "#e64465",
-            "#c8c8d4",
-            "#6d508a",
-            "#8c8ca3",
-            "#8c5cac"
+        "palette_hex": [
+            "#592720",
+            "#3d2b1f",
+            "#273be2",
+            "#cf71af"
         ]
     },
     "422": {
@@ -2134,13 +1786,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Osasuna_logo.svg/1200px-Osasuna_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Osasuna.png",
-        "palette": [
-            "#ac8c1e",
-            "#040404",
-            "#0c346c",
-            "#db1c24",
-            "#797439",
-            "#5a6047"
+        "palette_hex": [
+            "#0d98ba",
+            "#273be2",
+            "#704214",
+            "#ffffff"
         ]
     },
     "2256": {
@@ -2150,13 +1800,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Palermo_Calcio_logo_(2019).svg/800px-Palermo_Calcio_logo_(2019).svg.png",
         "download_status": true,
         "file_path": "data/logo/Palermo.png",
-        "palette": [
-            "#d5b67c",
-            "#040404",
-            "#60541e",
-            "#7c7425",
-            "#7b6b2c",
-            "#846c34"
+        "palette_hex": [
+            "#000000",
+            "#21abcd",
+            "#ccccff"
         ]
     },
     "798": {
@@ -2166,13 +1813,13 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/3/39/Panama_national_football_team.png",
         "download_status": true,
         "file_path": "data/logo/Panama.png",
-        "palette": [
-            "#040605",
-            "#e7c41c",
-            "#0cb14d",
-            "#ec1c23",
-            "#044b8c",
-            "#57472c"
+        "palette_hex": [
+            "#000000",
+            "#ffffff",
+            "#964b00",
+            "#00b7eb",
+            "#273be2",
+            "#4cbb17"
         ]
     },
     "952": {
@@ -2182,29 +1829,22 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Panathinaikos_F.C._logo.svg/640px-Panathinaikos_F.C._logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Panathinaikos.png",
-        "palette": [
-            "#047c3c",
-            "#040404",
-            "#c6e1d4",
-            "#54a57f",
-            "#79bc9c",
-            "#74b49c"
+        "palette_hex": [
+            "#ffffff",
+            "#2a8000"
         ]
     },
     "131": {
         "team_name": "Paris Saint-Germain",
         "team_id": 131,
-        "original_link": "https://en.wikipedia.org/wiki/Paris_Saint-Germain_F.C.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/190px-Paris_Saint-Germain_F.C..svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
         "download_status": true,
         "file_path": "data/logo/Paris_Saint-Germain.png",
-        "palette": [
-            "#054474",
-            "#d46974",
-            "#040404",
-            "#57829f",
-            "#7899b4",
-            "#7ca4b4"
+        "palette_hex": [
+            "#7b3f00",
+            "#ffffff",
+            "#0000cd"
         ]
     },
     "789": {
@@ -2214,13 +1854,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Polish_Football_Association_logo.svg",
         "download_status": true,
         "file_path": "data/logo/Poland.svg",
-        "palette": [
-            "#eb2a27",
-            "#f9b820",
-            "#040404",
-            "#408444",
-            "#400448",
-            "#440404"
+        "palette_hex": [
+            "#273be2",
+            "#4166f5",
+            "#0fc0fc"
         ]
     },
     "105": {
@@ -2230,13 +1867,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Portsmouth_FC_logo.svg",
         "download_status": true,
         "file_path": "data/logo/Portsmouth.svg",
-        "palette": [
-            "#e2e2f2",
-            "#2c3d9c",
-            "#040404",
-            "#7482be",
-            "#8f99cc",
-            "#94a4cc"
+        "palette_hex": [
+            "#aa381e",
+            "#ffffff",
+            "#fddde6"
         ]
     },
     "780": {
@@ -2246,29 +1880,25 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Portuguese_Football_Federation.svg/1200px-Portuguese_Football_Federation.svg.png",
         "download_status": true,
         "file_path": "data/logo/Portugal.png",
-        "palette": [
-            "#d2c384",
-            "#040404",
-            "#e3231b",
-            "#044494",
-            "#624732",
-            "#6790c0"
+        "palette_hex": [
+            "#000000",
+            "#99badd",
+            "#273be2",
+            "#ffffff"
         ]
     },
     "3566": {
         "team_name": "Qatar",
         "team_id": 3566,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Qatar_Football_Association_logo.svg/1200px-Qatar_Football_Association_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Qatar_Football_Association_logo.svg/1200px-Qatar_Football_Association_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/3/3a/Qatar_Football_Association_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Qatar_Football_Association_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/Qatar.png",
-        "palette": [
-            "#83223b",
-            "#0d0b0b",
-            "#dfd9d9",
-            "#a8a3a3",
-            "#a8676f",
-            "#bb8494"
+        "file_path": "data/logo/Qatar.svg",
+        "palette_hex": [
+            "#32127a",
+            "#ffffff",
+            "#483d8b",
+            "#1a2421"
         ]
     },
     "219": {
@@ -2278,13 +1908,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/RC_Deportivo_La_Coru\u00f1a_logo.svg/1200px-RC_Deportivo_La_Coru\u00f1a_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/RC_Deportivo_La_Coru\u00f1a.png",
-        "palette": [
-            "#a8914f",
-            "#040404",
-            "#54145b",
-            "#db5434",
-            "#1092ba",
-            "#647c84"
+        "palette_hex": [
+            "#ffffff",
+            "#4682b4",
+            "#682860"
         ]
     },
     "1217": {
@@ -2294,61 +1921,53 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Racing_de_Santander_logo.svg/1200px-Racing_de_Santander_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Racing_Santander.png",
-        "palette": [
-            "#dab53d",
-            "#040404",
-            "#2c9b2c",
-            "#d2381e",
-            "#712810",
-            "#7c7c7c"
+        "palette_hex": [
+            "#ffffff",
+            "#000000",
+            "#228b22",
+            "#1dacd6",
+            "#273be2"
         ]
     },
     "360": {
         "team_name": "Rayo Vallecano",
         "team_id": 360,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/d/d8/Rayo_Vallecano_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Rayo_Vallecano_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/Rayo_Vallecano.png",
-        "palette": [
-            "#bdad39",
-            "#050504",
-            "#e3341c",
-            "#078d46",
-            "#5b4837",
-            "#7c7c7c"
+        "file_path": "data/logo/Rayo_Vallecano.svg",
+        "palette_hex": [
+            "#ffffff",
+            "#21abcd",
+            "#273be2",
+            "#000000"
         ]
     },
     "218": {
         "team_name": "Real Betis",
         "team_id": 218,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/640px-Real_betis_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/640px-Real_betis_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Real_Betis.png",
-        "palette": [
-            "#dc980f",
-            "#06944d",
-            "#d4043b",
-            "#040404",
-            "#404084",
-            "#444004"
+        "palette_hex": [
+            "#ffffff",
+            "#0892d0",
+            "#568203",
+            "#3f00ff"
         ]
     },
     "220": {
         "team_name": "Real Madrid",
         "team_id": 220,
-        "original_link": "https://en.wikipedia.org/wiki/Real_Madrid_CF",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/160px-Real_Madrid_CF.svg.png",
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/160px-Real_Madrid_CF.svg.png",
         "download_status": true,
         "file_path": "data/logo/Real_Madrid.png",
-        "palette": [
-            "#f1b80b",
-            "#080a0a",
-            "#094e95",
-            "#c4d2d9",
-            "#698c94",
-            "#da2647"
+        "palette_hex": [
+            "#00bfff",
+            "#964b00",
+            "#ffffff"
         ]
     },
     "1230": {
@@ -2358,29 +1977,26 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Real_Murcia_CF_logo.svg/640px-Real_Murcia_CF_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Real_Murcia_CF.png",
-        "palette": [
-            "#f1aa30",
-            "#080708",
-            "#da041c",
-            "#5c4938",
-            "#7c7c7d",
-            "#78747c"
+        "palette_hex": [
+            "#ffffff",
+            "#1a1110",
+            "#1e90ff",
+            "#0000cd"
         ]
     },
     "210": {
         "team_name": "Real Sociedad",
         "team_id": 210,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
+        "original_link": "https://en.wikipedia.org/wiki/Real_Sociedad",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/175px-Real_Sociedad_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Real_Sociedad.png",
-        "palette": [
-            "#e9b626",
-            "#040404",
-            "#143c8c",
-            "#ea1b23",
-            "#5e4a25",
-            "#728ab9"
+        "palette_hex": [
+            "#8b4513",
+            "#1dacd6",
+            "#000000",
+            "#ffffff",
+            "#73c2fb"
         ]
     },
     "901": {
@@ -2390,13 +2006,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Shield_of_Real_Valladolid.png",
         "download_status": true,
         "file_path": "data/logo/Real_Valladolid.png",
-        "palette": [
-            "#6e2b8d",
-            "#dd1823",
-            "#080409",
-            "#f4d230",
-            "#b08bac",
-            "#8a366b"
+        "palette_hex": [
+            "#ffffff",
+            "#873260",
+            "#273be2",
+            "#00bfff"
         ]
     },
     "395": {
@@ -2406,13 +2020,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Real_Zaragoza_logo.svg/1200px-Real_Zaragoza_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Real_Zaragoza.png",
-        "palette": [
-            "#fad204",
-            "#fb0413",
-            "#040914",
-            "#624311",
-            "#042384",
-            "#7c843c"
+        "palette_hex": [
+            "#00bfff",
+            "#0000ff",
+            "#000000",
+            "#7c1c05"
         ]
     },
     "1220": {
@@ -2422,13 +2034,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2c/Recreativo_huelva_crest.png",
         "download_status": true,
         "file_path": "data/logo/Recreativo_Huelva.png",
-        "palette": [
-            "#1c498e",
-            "#e6e0c2",
-            "#fbbc14",
-            "#8ba4c4",
-            "#d4ac24",
-            "#819cc4"
+        "palette_hex": [
+            "#ffffff",
+            "#8b4513",
+            "#0fc0fc"
         ]
     },
     "134": {
@@ -2438,45 +2047,39 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/640px-Stade_Rennais_FC.svg.png",
         "download_status": true,
         "file_path": "data/logo/Rennes.png",
-        "palette": [
-            "#e33525",
-            "#040404",
-            "#f8be2d",
-            "#585140",
-            "#7c7c7c",
-            "#747474"
+        "palette_hex": [
+            "#273be2",
+            "#000000",
+            "#ffffff",
+            "#0fc0fc"
         ]
     },
     "1324": {
         "team_name": "River Plate",
         "team_id": 1324,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/a/ac/Escudo_del_C_A_River_Plate.svg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Escudo_del_C_A_River_Plate.svg",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Escudo_del_C_A_River_Plate.svg/1200px-Escudo_del_C_A_River_Plate.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Escudo_del_C_A_River_Plate.svg/1200px-Escudo_del_C_A_River_Plate.svg.png",
         "download_status": true,
-        "file_path": "data/logo/River_Plate.svg",
-        "palette": [
-            "#eb1c2c",
-            "#100d10",
-            "#d7cbcc",
-            "#868585",
-            "#5d5b5b",
-            "#7c7c7c"
+        "file_path": "data/logo/River_Plate.png",
+        "palette_hex": [
+            "#ffffff",
+            "#1a2421",
+            "#3f00ff"
         ]
     },
     "905": {
         "team_name": "Romania",
         "team_id": 905,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Romania_national_football_team_logo.svg/800px-Romania_national_football_team_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Romania_national_football_team_logo.svg/800px-Romania_national_football_team_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Romania_national_football_team_logo.svg/640px-Romania_national_football_team_logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Romania_national_football_team_logo.svg/640px-Romania_national_football_team_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Romania.png",
-        "palette": [
-            "#0c0a0c",
-            "#fbcb05",
-            "#0c4ca4",
-            "#ec1c24",
-            "#ddd4c8",
-            "#798fa5"
+        "palette_hex": [
+            "#ffffff",
+            "#00bfff",
+            "#964b00",
+            "#273be2",
+            "#1a2421"
         ]
     },
     "135": {
@@ -2486,29 +2089,23 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/AS_Saint-%C3%89tienne_logo.svg/150px-AS_Saint-%C3%89tienne_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Saint-\u00c9tienne.png",
-        "palette": [
-            "#040404",
-            "#cfcbb1",
-            "#1c9b5c",
-            "#469d83",
-            "#89ccab",
-            "#748dbd"
+        "palette_hex": [
+            "#6b8e23",
+            "#ffffff",
+            "#99badd"
         ]
     },
     "234": {
         "team_name": "Sampdoria",
         "team_id": 234,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/U.C._Sampdoria_logo.svg/640px-U.C._Sampdoria_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/U.C._Sampdoria_logo.svg/640px-U.C._Sampdoria_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/d/d2/U.C._Sampdoria_logo.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d2/U.C._Sampdoria_logo.svg",
         "download_status": true,
-        "file_path": "data/logo/Sampdoria.png",
-        "palette": [
-            "#13130e",
-            "#047cbc",
-            "#d56253",
-            "#56a7d2",
-            "#6f6c6b",
-            "#5d504e"
+        "file_path": "data/logo/Sampdoria.svg",
+        "palette_hex": [
+            "#ffffff",
+            "#1a2421",
+            "#b8860b"
         ]
     },
     "232": {
@@ -2518,29 +2115,23 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/1200px-US_Sassuolo_Calcio_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Sassuolo.png",
-        "palette": [
-            "#a5a5a5",
-            "#34b45c",
-            "#161216",
-            "#6f6c6d",
-            "#2c6d3e",
-            "#8c8b8c"
+        "palette_hex": [
+            "#1a2421",
+            "#66b032",
+            "#ffffff",
+            "#a9a9a9"
         ]
     },
     "799": {
         "team_name": "Saudi Arabia",
         "team_id": 799,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/4/49/SAFF_logo.svg/640px-SAFF_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/SAFF_logo.svg/640px-SAFF_logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/f/fe/Saudi_Arabia_national_football_team.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Saudi_Arabia_national_football_team.png",
         "download_status": true,
         "file_path": "data/logo/Saudi_Arabia.png",
-        "palette": [
-            "#040404",
-            "#80afa4",
-            "#0e5835",
-            "#08840e",
-            "#087a85",
-            "#6c6c6c"
+        "palette_hex": [
+            "#568203",
+            "#ffffff"
         ]
     },
     "181": {
@@ -2550,13 +2141,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/190px-FC_Schalke_04_Logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Schalke_04.png",
-        "palette": [
-            "#054d9c",
-            "#040404",
-            "#c7d8ea",
-            "#5d8ec0",
-            "#7ca4cc",
-            "#749ccc"
+        "palette_hex": [
+            "#ffffff",
+            "#964b00"
         ]
     },
     "942": {
@@ -2566,29 +2153,25 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/5/50/Scotland_national_football_team_logo_2014.svg",
         "download_status": true,
         "file_path": "data/logo/Scotland.svg",
-        "palette": [
-            "#f4d719",
-            "#101622",
-            "#aa183b",
-            "#1aa85a",
-            "#68707f",
-            "#848c9c"
+        "palette_hex": [
+            "#ffffff",
+            "#3d2b1f",
+            "#00bfff",
+            "#333399"
         ]
     },
     "488": {
         "team_name": "Seattle Sounders",
         "team_id": 488,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Seattle_Sounders_FC.svg/1200px-Seattle_Sounders_FC.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Seattle_Sounders_FC.svg/1200px-Seattle_Sounders_FC.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Seattle_Sounders_FC.svg/800px-Seattle_Sounders_FC.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Seattle_Sounders_FC.svg/800px-Seattle_Sounders_FC.svg.png",
         "download_status": true,
         "file_path": "data/logo/Seattle_Sounders.png",
-        "palette": [
-            "#5c9444",
-            "#0a1117",
-            "#055493",
-            "#c4cdc9",
-            "#516164",
-            "#3c4454"
+        "palette_hex": [
+            "#321414",
+            "#ffffff",
+            "#2e8b57",
+            "#964b00"
         ]
     },
     "787": {
@@ -2598,29 +2181,25 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Senegalese_Football_Federation_logo.svg/1200px-Senegalese_Football_Federation_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Senegal.png",
-        "palette": [
-            "#18a536",
-            "#fbdb05",
-            "#04140c",
-            "#e43c24",
-            "#e2e6cb",
-            "#2a7c54"
+        "palette_hex": [
+            "#ffffff",
+            "#00bfff",
+            "#4cbb17",
+            "#273be2",
+            "#195905"
         ]
     },
     "786": {
         "team_name": "Serbia",
         "team_id": 786,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Fudbalski_savez_Srbije.svg/1200px-Fudbalski_savez_Srbije.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Fudbalski_savez_Srbije.svg/1200px-Fudbalski_savez_Srbije.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/a/ac/Grb_fudbalske_reprezentacije_Srbije.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/a/ac/Grb_fudbalske_reprezentacije_Srbije.png",
         "download_status": true,
         "file_path": "data/logo/Serbia.png",
-        "palette": [
-            "#b69f61",
-            "#b42c3c",
-            "#040404",
-            "#c8787f",
-            "#d2949c",
-            "#848484"
+        "palette_hex": [
+            "#1c39bb",
+            "#5f9ea0",
+            "#ffffff"
         ]
     },
     "213": {
@@ -2630,13 +2209,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/1200px-Sevilla_FC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Sevilla.png",
-        "palette": [
-            "#cd4d19",
-            "#040404",
-            "#eeda9c",
-            "#855312",
-            "#958e68",
-            "#7e7989"
+        "palette_hex": [
+            "#ffffff",
+            "#0000cd",
+            "#0892d0",
+            "#000000"
         ]
     },
     "908": {
@@ -2646,29 +2223,23 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Slovakia.png",
-        "palette": [
-            "#153e8b",
-            "#040404",
-            "#e73a3e",
-            "#4b7cb4",
-            "#7c9fc7",
-            "#0404fc"
+        "palette_hex": [
+            "#ffffff",
+            "#882d17",
+            "#8b4513",
+            "#b87333"
         ]
     },
     "791": {
         "team_name": "South Korea",
         "team_id": 791,
-        "original_link": "https://en.wikipedia.org/wiki/South_Korea_national_football_team",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/South_Korea_national_football_team_logo.png/140px-South_Korea_national_football_team_logo.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/a/a7/South_Korea_national_football_team_logo.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a7/South_Korea_national_football_team_logo.png",
         "download_status": true,
         "file_path": "data/logo/South_Korea.png",
-        "palette": [
-            "#d9c9d5",
-            "#0f255e",
-            "#ed2243",
-            "#040404",
-            "#7781a4",
-            "#7c8cab"
+        "palette_hex": [
+            "#ffffff",
+            "#480607"
         ]
     },
     "25": {
@@ -2678,13 +2249,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/640px-FC_Southampton.svg.png",
         "download_status": true,
         "file_path": "data/logo/Southampton.png",
-        "palette": [
-            "#0f0c0c",
-            "#ea1e3c",
-            "#1bb08b",
-            "#eec541",
-            "#6a5447",
-            "#7b7b85"
+        "palette_hex": [
+            "#1a2421",
+            "#ffffff",
+            "#5218fa"
         ]
     },
     "17403": {
@@ -2694,13 +2262,12 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Soviet_Union_football_federation.png",
         "download_status": true,
         "file_path": "data/logo/Soviet_Union_U20.png",
-        "palette": [
-            "#dc9242",
-            "#060707",
-            "#c3242c",
-            "#055c4b",
-            "#5d6d44",
-            "#5f4127"
+        "palette_hex": [
+            "#1c39bb",
+            "#4b5320",
+            "#417dc1",
+            "#73c2fb",
+            "#1a1110"
         ]
     },
     "772": {
@@ -2710,13 +2277,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/3/31/Spain_National_Football_Team_badge.png",
         "download_status": true,
         "file_path": "data/logo/Spain.png",
-        "palette": [
-            "#fbc843",
-            "#e4052c",
-            "#040404",
-            "#f15f36",
-            "#dc0424",
-            "#388440"
+        "palette_hex": [
+            "#3f00ff",
+            "#73c2fb"
         ]
     },
     "1041": {
@@ -2726,13 +2289,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Real_Sporting_de_Gijon.svg/1200px-Real_Sporting_de_Gijon.svg.png",
         "download_status": true,
         "file_path": "data/logo/Sporting_Gij\u00f3n.png",
-        "palette": [
-            "#e4041c",
-            "#e4bc05",
-            "#040404",
-            "#408480",
-            "#400484",
-            "#440404"
+        "palette_hex": [
+            "#0000cd",
+            "#00b7eb",
+            "#ffffff"
         ]
     },
     "156": {
@@ -2742,13 +2302,8 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/1/19/Stade_de_Reims_logo.svg",
         "download_status": true,
         "file_path": "data/logo/Stade_de_Reims.svg",
-        "palette": [
-            "#ec0404",
-            "#040404",
-            "#dc0404",
-            "#440404",
-            "#080404",
-            "#080404"
+        "palette_hex": [
+            "#0000ff"
         ]
     },
     "30": {
@@ -2758,29 +2313,24 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/2/29/Stoke_City_FC.svg",
         "download_status": true,
         "file_path": "data/logo/Stoke_City.svg",
-        "palette": [
-            "#e43f3f",
-            "#1f469d",
-            "#ddcfdb",
-            "#040404",
-            "#7b93c6",
-            "#4c4040"
+        "palette_hex": [
+            "#ffffff",
+            "#273be2",
+            "#aa381e"
         ]
     },
     "41": {
         "team_name": "Sunderland",
         "team_id": 41,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/1200px-Logo_Sunderland.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/1200px-Logo_Sunderland.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/7/77/Logo_Sunderland.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Logo_Sunderland.svg",
         "download_status": true,
-        "file_path": "data/logo/Sunderland.png",
-        "palette": [
-            "#e8192d",
-            "#0b0909",
-            "#ae973d",
-            "#5d4631",
-            "#7c7c7a",
-            "#757474"
+        "file_path": "data/logo/Sunderland.svg",
+        "palette_hex": [
+            "#ffffff",
+            "#3f00ff",
+            "#1a2421",
+            "#0d98ba"
         ]
     },
     "26": {
@@ -2790,13 +2340,8 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Swansea_City_AFC_logo.svg/1200px-Swansea_City_AFC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Swansea_City.png",
-        "palette": [
-            "#040404",
-            "#080404",
-            "#080404",
-            "#080404",
-            "#080404",
-            "#080404"
+        "palette_hex": [
+            "#000000"
         ]
     },
     "790": {
@@ -2806,13 +2351,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Sweden_national_football_team_badge.svg/1200px-Sweden_national_football_team_badge.svg.png",
         "download_status": true,
         "file_path": "data/logo/Sweden.png",
-        "palette": [
-            "#045493",
-            "#fad304",
-            "#040404",
-            "#79944e",
-            "#84974c",
-            "#0404fc"
+        "palette_hex": [
+            "#964b00",
+            "#00bfff"
         ]
     },
     "773": {
@@ -2822,13 +2363,8 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/SFV_Logo.svg/800px-SFV_Logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Switzerland.png",
-        "palette": [
-            "#d4042b",
-            "#040404",
-            "#bc0444",
-            "#44042c",
-            "#040430",
-            "#080404"
+        "palette_hex": [
+            "#3f00ff"
         ]
     },
     "627": {
@@ -2838,13 +2374,12 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/CD_Tenerife_logo.svg/1200px-CD_Tenerife_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Tenerife.png",
-        "palette": [
-            "#e2bb5a",
-            "#14349c",
-            "#050505",
-            "#349cfb",
-            "#e2231b",
-            "#716239"
+        "palette_hex": [
+            "#aa381e",
+            "#73c2fb",
+            "#ffffff",
+            "#000000",
+            "#ff9933"
         ]
     },
     "241": {
@@ -2854,13 +2389,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Torino.png",
-        "palette": [
-            "#040404",
-            "#8c1c1c",
-            "#ecb92e",
-            "#5484bb",
-            "#b87043",
-            "#d18613"
+        "palette_hex": [
+            "#23297a",
+            "#ffffff",
+            "#00b7eb"
         ]
     },
     "38": {
@@ -2870,13 +2402,8 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
         "download_status": true,
         "file_path": "data/logo/Tottenham_Hotspur.png",
-        "palette": [
-            "#132354",
-            "#040404",
-            "#044444",
-            "#043464",
-            "#141428",
-            "#181404"
+        "palette_hex": [
+            "#592720"
         ]
     },
     "130": {
@@ -2886,77 +2413,63 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Toulouse_FC_2018_logo.svg/1200px-Toulouse_FC_2018_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Toulouse.png",
-        "palette": [
-            "#291e34",
-            "#db5c60",
-            "#6d558b",
-            "#9c94a6",
-            "#845e5c",
-            "#9c8cb3"
+        "palette_hex": [
+            "#483c32",
+            "#ffffff",
+            "#8a496b",
+            "#3f00ff",
+            "#71a6d2"
         ]
     },
     "133": {
         "team_name": "Troyes",
         "team_id": 133,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/1200px-ES_Troyes_AC.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/1200px-ES_Troyes_AC.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/640px-ES_Troyes_AC.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/640px-ES_Troyes_AC.svg.png",
         "download_status": true,
         "file_path": "data/logo/Troyes.png",
-        "palette": [
-            "#dca31d",
-            "#046cb4",
-            "#040404",
-            "#3889b2",
-            "#78b4d5",
-            "#046cac"
+        "palette_hex": [
+            "#b06500",
+            "#ffffff",
+            "#0892d0"
         ]
     },
     "777": {
         "team_name": "Tunisia",
         "team_id": 777,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Logo_federation_tunisienne_de_football-copy.svg/1200px-Logo_federation_tunisienne_de_football-copy.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Logo_federation_tunisienne_de_football-copy.svg/1200px-Logo_federation_tunisienne_de_football-copy.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/5/5d/Logo_federation_tunisienne_de_football-copy.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Logo_federation_tunisienne_de_football-copy.svg",
         "download_status": true,
-        "file_path": "data/logo/Tunisia.png",
-        "palette": [
-            "#e30515",
-            "#040404",
-            "#dac5c7",
-            "#545454",
-            "#4c4c4c",
-            "#f47c8c"
+        "file_path": "data/logo/Tunisia.svg",
+        "palette_hex": [
+            "#ffffff",
+            "#0000ff"
         ]
     },
     "909": {
         "team_name": "Turkey",
         "team_id": 909,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/7/71/Roundel_flag_of_Turkey.svg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Roundel_flag_of_Turkey.svg",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Roundel_flag_of_Turkey.svg/1200px-Roundel_flag_of_Turkey.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Roundel_flag_of_Turkey.svg/1200px-Roundel_flag_of_Turkey.svg.png",
         "download_status": true,
-        "file_path": "data/logo/Turkey.svg",
-        "palette": [
-            "#e40c14",
-            "#040404",
-            "#f9cacd",
-            "#f4848c",
-            "#cc0404",
-            "#388480"
+        "file_path": "data/logo/Turkey.png",
+        "palette_hex": [
+            "#0000cd",
+            "#ffffff"
         ]
     },
     "230": {
         "team_name": "Udinese",
         "team_id": 230,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png",
+        "original_link": "https://en.wikipedia.org/wiki/Udinese_Calcio",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/180px-Udinese_Calcio_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Udinese.png",
-        "palette": [
-            "#8c7c36",
-            "#7c7c7c",
-            "#040404",
-            "#e1e1e1",
-            "#747474",
-            "#595959"
+        "palette_hex": [
+            "#808080",
+            "#367588",
+            "#ffffff",
+            "#000000"
         ]
     },
     "911": {
@@ -2966,29 +2479,40 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_F\u00e9d\u00e9ration_Ukraine_Football_2016.svg",
         "download_status": true,
         "file_path": "data/logo/Ukraine.svg",
-        "palette": [
-            "#090d13",
-            "#ebc935",
-            "#3a66a4",
-            "#618897",
-            "#5c6a6e",
-            "#846c4c"
+        "palette_hex": [
+            "#b87333",
+            "#6f4e37",
+            "#826644",
+            "#30d5c8",
+            "#79443b",
+            "#0fc0fc",
+            "#ffffff"
+        ]
+    },
+    "1839": {
+        "team_name": "United States",
+        "team_id": 1839,
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/800px-MLS_crest_logo_RGB_gradient.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/800px-MLS_crest_logo_RGB_gradient.svg.png",
+        "download_status": true,
+        "file_path": "data/logo/United_States.png",
+        "palette_hex": [
+            "#ffffff",
+            "#273be2",
+            "#1c39bb",
+            "#480607"
         ]
     },
     "783": {
         "team_name": "Uruguay",
         "team_id": 783,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/4/43/Uruguay_national_football_team_seal.svg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/4/43/Uruguay_national_football_team_seal.svg",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/2/20/Escudo_De_La_Selecci%C3%B3n_de_Uruguay.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Escudo_De_La_Selecci\u00f3n_de_Uruguay.png",
         "download_status": true,
-        "file_path": "data/logo/Uruguay.svg",
-        "palette": [
-            "#040404",
-            "#fbcc07",
-            "#dc080f",
-            "#e1e8d1",
-            "#53b3e3",
-            "#c17947"
+        "file_path": "data/logo/Uruguay.png",
+        "palette_hex": [
+            "#ffffff",
+            "#ce2029"
         ]
     },
     "207": {
@@ -2998,13 +2522,13 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
         "download_status": true,
         "file_path": "data/logo/Valencia.png",
-        "palette": [
-            "#f2cb1d",
-            "#040404",
-            "#e73424",
-            "#0594d4",
-            "#5f574c",
-            "#046c9a"
+        "palette_hex": [
+            "#000000",
+            "#0fc0fc",
+            "#273be2",
+            "#ffffff",
+            "#da9100",
+            "#0892d0"
         ]
     },
     "174": {
@@ -3014,29 +2538,26 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/VfB_Stuttgart.png",
-        "palette": [
-            "#d40525",
-            "#fad912",
-            "#040404",
-            "#5d5315",
-            "#7c7c7c",
-            "#747474"
+        "palette_hex": [
+            "#ffffff",
+            "#0000cd",
+            "#00bfff",
+            "#000000"
         ]
     },
     "222": {
         "team_name": "Villarreal",
         "team_id": 222,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/1200px-Villarreal_CF_logo-en.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/1200px-Villarreal_CF_logo-en.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/b/b9/Villarreal_CF_logo-en.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Villarreal_CF_logo-en.svg",
         "download_status": true,
-        "file_path": "data/logo/Villarreal.png",
-        "palette": [
-            "#fae266",
-            "#040404",
-            "#045484",
-            "#e30404",
-            "#6191a0",
-            "#5a3e2d"
+        "file_path": "data/logo/Villarreal.svg",
+        "palette_hex": [
+            "#964b00",
+            "#7df9ff",
+            "#000000",
+            "#0000ff",
+            "#ffffff"
         ]
     },
     "907": {
@@ -3046,13 +2567,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Wales_national_football_team_logo.svg/1200px-Wales_national_football_team_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Wales.png",
-        "palette": [
-            "#bf202b",
-            "#081914",
-            "#e9cecf",
-            "#6a9082",
-            "#577c74",
-            "#4d746c"
+        "palette_hex": [
+            "#ffffff",
+            "#273be2",
+            "#4b5320",
+            "#333399"
         ]
     },
     "23": {
@@ -3062,13 +2581,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/1200px-Watford.svg.png",
         "download_status": true,
         "file_path": "data/logo/Watford.png",
-        "palette": [
-            "#eb2323",
-            "#fbeb23",
-            "#040404",
-            "#602e0f",
-            "#3c3c0c",
-            "#7c7c14"
+        "palette_hex": [
+            "#273be2",
+            "#00ffff",
+            "#000000"
         ]
     },
     "176": {
@@ -3078,13 +2594,9 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Werder_Bremen.png",
-        "palette": [
-            "#1c9454",
-            "#c7e4d4",
-            "#040404",
-            "#7bbd9c",
-            "#404084",
-            "#444004"
+        "palette_hex": [
+            "#507d2a",
+            "#ffffff"
         ]
     },
     "27": {
@@ -3094,13 +2606,10 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/West_Bromwich_Albion.svg/1200px-West_Bromwich_Albion.svg.png",
         "download_status": true,
         "file_path": "data/logo/West_Bromwich_Albion.png",
-        "palette": [
-            "#0c1454",
-            "#ddc4ad",
-            "#088c4f",
-            "#1e0f06",
-            "#66637b",
-            "#7c82a4"
+        "palette_hex": [
+            "#ffffff",
+            "#480607",
+            "#003153"
         ]
     },
     "40": {
@@ -3110,45 +2619,35 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/West_Ham_United.png",
-        "palette": [
-            "#7c2c3c",
-            "#2cace3",
-            "#f5ce46",
-            "#040404",
-            "#3e8cbc",
-            "#8e7385"
+        "palette_hex": [
+            "#522d80",
+            "#e1ad21",
+            "#48d1cc",
+            "#ffffff"
         ]
     },
     "179": {
         "team_name": "Wolfsburg",
         "team_id": 179,
-        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/800px-VfL_Wolfsburg_Logo.svg.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/800px-VfL_Wolfsburg_Logo.svg.png",
         "download_status": true,
         "file_path": "data/logo/Wolfsburg.png",
-        "palette": [
-            "#54a404",
-            "#040404",
-            "#04fc04",
-            "#484004",
-            "#044404",
-            "#080404"
+        "palette_hex": [
+            "#00a550"
         ]
     },
     "46": {
         "team_name": "Wolverhampton Wanderers",
         "team_id": 46,
-        "original_link": "https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wolverhampton_Wanderers.svg/190px-Wolverhampton_Wanderers.svg.png",
+        "original_link": "https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/f/fc/Wolverhampton_Wanderers.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/Wolverhampton_Wanderers.svg",
         "download_status": true,
-        "file_path": "data/logo/Wolverhampton_Wanderers.png",
-        "palette": [
-            "#151115",
-            "#f9be23",
-            "#73603a",
-            "#946c1c",
-            "#8c8c8c",
-            "#868484"
+        "file_path": "data/logo/Wolverhampton_Wanderers.svg",
+        "palette_hex": [
+            "#1a2421",
+            "#0fc0fc",
+            "#ffffff"
         ]
     },
     "1219": {
@@ -3158,13 +2657,11 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Xerez_CD_log.svg/1200px-Xerez_CD_log.svg.png",
         "download_status": true,
         "file_path": "data/logo/Xerez.png",
-        "palette": [
-            "#f8ca08",
-            "#048bb8",
-            "#040404",
-            "#db2b33",
-            "#614810",
-            "#046e99"
+        "palette_hex": [
+            "#00bfff",
+            "#b8860b",
+            "#ffffff",
+            "#000000"
         ]
     }
 }
