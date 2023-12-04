@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 import math
 import json
+from scipy.stats import t
+from scipy import stats
 
 # viz
 import matplotlib.pyplot as plt
@@ -36,7 +38,7 @@ whites4background = ['#F8FAFC','#F7FAFC','#F9FAFC','#F1F5F9',
 palette = ["#989898","#ffc100","#ff0057","#ff0057","#1a1a1a","#0d7177"]
 
 # Load configuration from config.json
-with open('config.json', 'r') as config_file:
+with open('../config.json', 'r') as config_file:
     config = json.load(config_file)
 
 def get_config_cmap(cmap_name,n=int()):
