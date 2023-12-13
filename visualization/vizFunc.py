@@ -6,10 +6,19 @@ import json
 from scipy.stats import t
 from scipy import stats
 import time
+import platform
+from datetime import timedelta
 
 # viz
+import matplotlib as mpl
 import matplotlib.pyplot as plt
 import seaborn as sns
+from pywaffle import Waffle
+from matplotlib.patches import Rectangle
+from matplotlib.colors import to_hex
+from matplotlib.gridspec import GridSpec,GridSpecFromSubplotSpec
+from matplotlib import gridspec
+import matplotlib.image as mpimg
 
 # mplsoccer
 from mplsoccer.pitch import Pitch
@@ -19,6 +28,7 @@ from mplsoccer import Pitch, VerticalPitch, FontManager
 # shapes
 import matplotlib.patches as mpatches
 from matplotlib.lines import Line2D
+
 # colors
 from matplotlib.cm import ScalarMappable
 from matplotlib.colors import LinearSegmentedColormap
@@ -28,9 +38,11 @@ from matplotlib.colors import Normalize
 from adjustText import adjust_text
 from highlight_text import ax_text,fig_text
 import matplotlib.patches as patches
+
 #etl
 from sqlalchemy import create_engine
 import sqlite3
+import mysql.connector
 
 whites4background = ['#F8FAFC','#F7FAFC','#F9FAFC','#F1F5F9',
                      '#F9FAFB','#FAFAFA','#FAFAF9','#F6F6F8',
@@ -44,6 +56,21 @@ with open('../config.json', 'r') as config_file:
 
 # database path
 db_path = config.get('statsbomb_db_path')
+
+# create an sqlalchemy engine to connect to the mysql database
+mysql_hostname = config["mysql"]["connection"]["hostname"]
+mysql_username = config["mysql"]["connection"]["username"]
+mysql_password = config["mysql"]["connection"]["password"]
+mysql_database = "statsbomb"
+mysql_engine = create_engine(f'mysql+mysqlconnector://{mysql_username}:{mysql_password}@{mysql_hostname}/{mysql_database}')
+
+def mysql_connect():
+    return mysql.connector.connect(
+        host= mysql_hostname,  
+        user= mysql_username,  
+        password= mysql_password, 
+        database= mysql_database
+    )
 
 def get_config_cmap(cmap_name,n=int()):
     try:
@@ -118,9 +145,8 @@ class footyviz:
 def get_selected_matches():
     # RUN ONLY WHEN WORKING A DIFFERENT PLAYER/SEASON
     # connect to the sqlite database
-    conn = sqlite3.connect(db_path)
-
-    with open('data/selected_matches.sql') as inserts:
+    conn_mysql = mysql_connect()
+    with open('data/query/selected_matches.sql') as inserts:
         q1 = inserts.read()
 
     # retrieve all matchdata
@@ -128,23 +154,21 @@ def get_selected_matches():
     competitionId = 2
     query = q1
     print(query)
+
     # use the connection and query to create a dataframe
-    matches = pd.read_sql_query(query, conn)
+    matches = pd.read_sql_query(query, conn_mysql)
 
     # close the connection
-    conn.close()
-
-    # RUN ONLY WHEN WORKING A DIFFERENT PLAYER/SEASON
-    print(matches.head())
+    conn_mysql.close()
+#   print(matches.head())
     match_list = matches.match_id.unique().tolist()
     return matches, match_list
 
 def parse_insert_events_stg():
     print('Retrieve match list...')
-    match_list = get_selected_matches()[0]
+    match_list = get_selected_matches()[1]
     print('match_list retrieved.')
-    # create an sqlalchemy engine to connect to the SQLite database
-    engine = create_engine(f'sqlite:///{db_path}')
+
     # instantiate a parser object
     parser = Sbopen()
     # RUN ONLY WHEN WORKING A DIFFERENT PLAYER-SEASON
@@ -160,8 +184,8 @@ def parse_insert_events_stg():
     df_event = pd.concat(event_df_list)
     print("Concatenation done")
     # in order not to do the same data retrieval over and over, using the to_sql function to write the dataframe to the sqlite database
-    df_event.to_sql('event_stg', engine, if_exists='replace', index=False)
+    df_event.to_sql('event_stg', mysql_engine, if_exists='replace', index=False)
     end_time = time.time()
     duration = end_time - start_time
-    print(f"It took {duration}")
+    print(f"It took {duration} seconds")
     return df_event
